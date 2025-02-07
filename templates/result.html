@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Prediction Result</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h1>🎬 Prediction Result 🎥</h1>
+        
+        <p><strong>Movie Name:</strong> <span class="highlight">{{ movie }}</span></p>
+        <p><strong>Genre:</strong> <span class="highlight">{{ genre }}</span></p>
+        <p><strong>Predicted Box Office Collection:</strong> <span class="highlight">₹{{ collection }} Cr</span></p>
+        <p><strong>Movie Category:</strong> <span class="highlight category-{{ category|lower }}">{{ category }}</span></p>
+        
+        <a href="/" class="btn">🔄 Try Again</a>
+    </div>
+</body>
+</html>
+

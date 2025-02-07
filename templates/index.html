@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Movie Collection Predictor</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h1>🎬 Movie Collection Predictor 🎥</h1>
+        <form action="/predict" method="post">
+            <label for="movie_name">🎞️ Movie Name:</label>
+            <input type="text" id="movie_name" name="movie_name" required>
+
+            <label for="genre">Genre:</label>
+            <select id="genre" name="genre" required>
+                <option value="Action">Action</option>
+                <option value="Drama">Drama</option>
+                <option value="Romance">Romance</option>
+                <option value="Thriller">Thriller</option>
+                <option value="Fantasy">Fantasy</option>
+    <!-- Add more genres as needed -->
+</select>
+
+            <label for="budget">💰 Budget (Cr):</label>
+            <input type="number" id="budget" name="budget" step="0.01" required>
+
+            <label for="marketing_spend">📢 Marketing Spend (Cr):</label>
+            <input type="number" id="marketing_spend" name="marketing_spend" step="0.01" required>
+
+            <label for="actor_popularity">⭐ Lead Actor Popularity (1-10):</label>
+            <input type="number" id="actor_popularity" name="actor_popularity" min="1" max="10" required>
+
+            <label for="director_rating">🎬 Director Rating (1-10):</label>
+            <input type="number" id="director_rating" name="director_rating" min="1" max="10" required>
+
+            <button type="submit">🚀 Predict</button>
+        </form>
+    </div>
+</body>
+</html>

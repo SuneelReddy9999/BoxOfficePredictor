@@ -1,0 +1,102 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Raleway:wght@300;700&display=swap');
+
+body {
+    font-family: 'Raleway', sans-serif;
+    background: url("https://source.unsplash.com/1600x900/?cinema,film") no-repeat center center/cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    backdrop-filter: blur(5px);
+}
+
+/* Stylish Container */
+.container {
+    background: rgba(0, 0, 0, 0.85);
+    color: white;
+    max-width: 600px;
+    padding: 30px;
+    border-radius: 15px;
+    box-shadow: 0 4px 20px rgba(255, 255, 255, 0.2);
+    text-align: center;
+    animation: fadeIn 1s ease-in-out;
+}
+
+/* Header */
+h1 {
+    font-size: 32px;
+    font-family: 'Bebas Neue', cursive;
+    color: #FFD700;
+    text-shadow: 2px 2px 15px rgba(255, 215, 0, 0.9);
+}
+
+/* Inputs */
+input {
+    width: 90%;
+    padding: 12px;
+    font-size: 16px;
+    margin-top: 5px;
+    border: 1px solid #FFD700;
+    border-radius: 5px;
+    background: rgba(255, 255, 255, 0.1);
+    color: white;
+}
+
+input:focus {
+    border-color: #ffcc00;
+    box-shadow: 0 0 10px #ffcc00;
+}
+
+/* Buttons */
+button {
+    background: linear-gradient(45deg, #ffcc00, #FF4500);
+    color: black;
+    font-size: 18px;
+    padding: 12px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    margin-top: 15px;
+    transition: all 0.3s ease;
+    box-shadow: 0 0 10px rgba(255, 140, 0, 0.8);
+}
+
+button:hover {
+    background: linear-gradient(45deg, #FF4500, #FFD700);
+    box-shadow: 0 0 20px rgba(255, 215, 0, 1);
+    transform: scale(1.05);
+}
+/* Genre Selection */
+select {
+    width: 95%;
+    padding: 12px;
+    font-size: 16px;
+    margin-top: 10px;
+    border: 1px solid #FFD700;
+    border-radius: 5px;
+    background: rgba(255, 255, 255, 0.1);
+    color: white;
+    cursor: pointer;
+    appearance: none;
+    text-align: center;
+}
+
+/* Hover and Focus Effects */
+select:hover, select:focus {
+    border-color: #ffcc00;
+    box-shadow: 0 0 10px #ffcc00;
+    outline: none;
+}
+
+/* Fade-in effect */
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(-10px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}

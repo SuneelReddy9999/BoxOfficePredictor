@@ -1,0 +1,1501 @@
+Movie Name,Year,Budget (Cr),Marketing Spend (Cr),Lead Actor Popularity,Director Rating,Box Office Collection (Cr),Genre
+Baahubali,2023,191.86,47.13,5,3,266.24,Sci-Fi
+RRR,2016,191.17,40.22,1,6,343.55,Comedy
+Pushpa,2000,60.71,28.82,7,1,199.67,Action
+Ala Vaikunthapurramuloo,2012,456.56,143.89,9,8,1338.78,Drama
+Sarileru Neekevvaru,2017,161.12,13.38,1,6,282.95,Action
+Eega,2020,310.88,102.12,2,1,608.87,Comedy
+Arjun Reddy,2018,316.0,69.43,5,6,638.59,Action
+Jersey,2001,366.52,72.83,1,8,814.88,Thriller
+Fidaa,2008,314.2,138.66,10,9,408.81,Comedy
+Geetha Govindam,2019,140.23,56.94,5,1,329.2,Action
+Sye,2015,337.03,166.14,3,1,983.53,Sci-Fi
+Athadu,2017,470.68,154.11,6,2,296.0,Romance
+Pokiri,2022,481.07,155.53,6,6,1241.34,Sci-Fi
+Magadheera,2006,23.55,5.33,1,8,75.15,Thriller
+Gabbar Singh,2007,470.72,141.68,8,2,505.1,Sci-Fi
+Temper,2012,184.12,82.07,7,7,164.9,Drama
+Yevadu,2015,111.16,22.8,7,3,140.37,Action
+Mirchi,2015,381.93,85.74,1,2,819.59,Romance
+Businessman,2024,253.34,112.88,2,8,175.17,Drama
+Julayi,2018,216.88,61.98,1,3,686.84,Romance
+Baahubali,2012,158.96,10.9,2,3,620.63,Romance
+RRR,2002,221.32,94.42,2,4,314.13,Comedy
+Pushpa,2000,312.62,120.72,6,4,167.12,Comedy
+Ala Vaikunthapurramuloo,2015,215.53,60.91,2,2,814.95,Comedy
+Sarileru Neekevvaru,2000,257.51,51.5,2,6,469.34,Comedy
+Eega,2005,373.6,185.83,4,9,871.77,Romance
+Arjun Reddy,2022,254.0,46.22,6,4,600.08,Comedy
+Jersey,2020,408.68,188.24,10,2,1036.47,Drama
+Fidaa,2012,428.94,142.7,4,9,420.22,Sci-Fi
+Geetha Govindam,2006,407.77,70.72,6,6,1120.58,Romance
+Sye,2017,479.72,174.15,6,9,746.03,Sci-Fi
+Athadu,2015,429.33,76.4,3,7,629.29,Romance
+Pokiri,2009,12.14,0.74,1,7,24.5,Comedy
+Magadheera,2003,239.69,67.31,10,9,605.46,Comedy
+Gabbar Singh,2011,493.17,54.6,10,3,746.78,Sci-Fi
+Temper,2003,413.11,122.4,1,6,236.73,Romance
+Yevadu,2008,74.7,10.38,5,6,61.97,Drama
+Mirchi,2000,194.88,71.72,6,6,110.14,Sci-Fi
+Businessman,2020,278.93,60.81,8,6,328.6,Drama
+Julayi,2009,427.49,102.71,5,6,1086.87,Comedy
+Baahubali,2012,152.27,34.13,5,9,597.67,Comedy
+RRR,2004,99.19,39.66,7,5,332.31,Action
+Pushpa,2008,120.96,23.39,10,7,193.29,Action
+Ala Vaikunthapurramuloo,2006,375.47,24.39,4,10,1244.95,Comedy
+Sarileru Neekevvaru,2018,275.93,43.24,7,10,448.88,Sci-Fi
+Eega,2021,478.54,89.18,3,4,1183.64,Sci-Fi
+Arjun Reddy,2016,48.05,2.59,5,9,124.9,Drama
+Jersey,2023,150.36,49.99,2,2,299.75,Thriller
+Fidaa,2000,37.96,15.13,8,2,59.47,Drama
+Geetha Govindam,2010,138.37,50.76,8,3,445.04,Drama
+Sye,2019,480.44,169.84,5,5,426.63,Action
+Athadu,2003,111.1,39.68,6,2,198.81,Romance
+Pokiri,2011,174.67,86.74,8,10,687.12,Action
+Magadheera,2005,398.07,37.49,5,1,1283.52,Thriller
+Gabbar Singh,2003,172.94,24.62,6,8,613.55,Action
+Temper,2008,359.67,85.86,9,8,1321.19,Comedy
+Yevadu,2019,132.44,31.28,8,7,158.83,Action
+Mirchi,2020,59.36,17.97,10,4,98.94,Romance
+Businessman,2021,307.1,125.9,3,6,1188.05,Romance
+Julayi,2005,10.51,1.39,9,6,24.9,Action
+Baahubali,2009,1.37,0.63,3,2,1.05,Action
+RRR,2000,106.54,11.05,2,5,62.99,Romance
+Pushpa,2007,422.67,139.6,5,9,1163.62,Action
+Ala Vaikunthapurramuloo,2008,65.61,10.24,1,8,243.53,Thriller
+Sarileru Neekevvaru,2008,407.46,123.48,2,4,335.33,Action
+Eega,2014,132.77,63.18,1,6,155.39,Sci-Fi
+Arjun Reddy,2016,437.35,47.89,4,10,1515.8,Drama
+Jersey,2000,466.9,224.27,7,8,1429.89,Comedy
+Fidaa,2018,91.87,43.19,5,2,351.44,Sci-Fi
+Geetha Govindam,2001,383.53,135.7,6,5,709.69,Comedy
+Sye,2007,243.59,36.8,1,1,362.08,Action
+Athadu,2005,77.23,6.68,6,2,93.16,Sci-Fi
+Pokiri,2023,360.22,140.2,9,6,1352.25,Action
+Magadheera,2000,49.42,17.51,6,8,142.28,Romance
+Gabbar Singh,2001,490.5,78.92,6,3,330.86,Sci-Fi
+Temper,2019,185.2,81.43,7,1,545.62,Drama
+Yevadu,2007,78.56,20.68,8,4,73.22,Sci-Fi
+Mirchi,2022,205.86,46.93,5,5,310.44,Romance
+Businessman,2007,193.74,80.97,3,1,179.95,Romance
+Julayi,2007,293.86,141.13,8,6,407.44,Drama
+Baahubali,2008,383.73,146.57,1,5,1009.89,Comedy
+RRR,2022,58.32,13.05,5,4,140.91,Drama
+Pushpa,2006,447.15,192.85,6,10,1784.27,Sci-Fi
+Ala Vaikunthapurramuloo,2005,131.41,52.99,9,4,339.02,Action
+Sarileru Neekevvaru,2011,215.06,96.14,10,7,321.81,Drama
+Eega,2023,290.8,84.45,3,4,818.41,Comedy
+Arjun Reddy,2016,43.33,14.92,8,3,46.13,Drama
+Jersey,2000,29.87,13.79,4,7,67.69,Thriller
+Fidaa,2003,275.89,117.35,5,5,699.98,Comedy
+Geetha Govindam,2020,447.87,109.04,9,5,1437.18,Thriller
+Sye,2024,416.14,125.15,10,5,1657.29,Thriller
+Athadu,2009,163.46,79.8,8,4,173.22,Comedy
+Pokiri,2024,401.37,36.18,1,1,516.7,Action
+Magadheera,2011,89.79,16.21,5,4,105.06,Thriller
+Gabbar Singh,2018,206.76,14.86,4,8,206.36,Sci-Fi
+Temper,2006,285.43,38.48,9,1,765.87,Sci-Fi
+Yevadu,2014,261.59,27.43,2,9,624.09,Romance
+Mirchi,2016,289.8,127.37,8,5,394.57,Comedy
+Businessman,2014,282.33,64.08,7,4,640.08,Sci-Fi
+Julayi,2011,457.65,96.22,9,8,725.24,Drama
+Baahubali,2010,155.84,49.31,7,10,618.03,Sci-Fi
+RRR,2015,262.21,61.7,9,4,795.7,Sci-Fi
+Pushpa,2009,413.37,164.14,10,4,730.11,Thriller
+Ala Vaikunthapurramuloo,2008,299.85,143.32,3,8,195.28,Action
+Sarileru Neekevvaru,2000,200.49,65.97,7,4,679.05,Action
+Eega,2002,419.08,92.3,3,6,1035.92,Romance
+Arjun Reddy,2009,455.94,130.23,2,10,926.12,Sci-Fi
+Jersey,2006,472.79,63.18,1,4,941.83,Thriller
+Fidaa,2023,171.24,57.56,3,6,610.48,Thriller
+Geetha Govindam,2008,139.6,26.68,3,2,404.49,Comedy
+Sye,2016,469.38,95.82,8,2,1259.93,Comedy
+Athadu,2006,443.72,132.94,10,4,680.64,Drama
+Pokiri,2021,381.63,80.75,10,4,516.4,Comedy
+Magadheera,2009,475.04,150.13,2,10,550.6,Action
+Gabbar Singh,2001,125.36,52.67,8,8,74.03,Drama
+Temper,2018,243.5,119.33,10,10,779.03,Thriller
+Yevadu,2014,408.29,190.12,9,6,934.46,Thriller
+Mirchi,2000,305.22,73.93,7,4,562.32,Sci-Fi
+Businessman,2023,453.14,45.17,10,8,1731.73,Action
+Julayi,2019,282.39,134.59,2,7,395.63,Thriller
+Baahubali,2021,420.03,60.78,1,1,349.43,Thriller
+RRR,2015,171.62,75.55,10,5,407.84,Drama
+Pushpa,2006,49.65,24.15,1,3,123.49,Romance
+Ala Vaikunthapurramuloo,2005,459.6,66.33,7,1,661.23,Action
+Sarileru Neekevvaru,2022,83.59,30.78,9,3,157.67,Comedy
+Eega,2016,60.79,22.77,4,6,222.35,Action
+Arjun Reddy,2006,94.69,32.7,7,6,147.67,Comedy
+Jersey,2011,403.08,65.84,3,1,799.32,Drama
+Fidaa,2014,97.67,10.61,5,6,157.02,Sci-Fi
+Geetha Govindam,2004,358.2,27.26,2,9,588.13,Thriller
+Sye,2013,371.79,27.24,10,8,773.77,Comedy
+Athadu,2017,491.22,69.98,10,5,430.62,Comedy
+Pokiri,2012,51.31,3.11,10,10,150.46,Thriller
+Magadheera,2020,446.14,163.54,1,1,1510.03,Comedy
+Gabbar Singh,2011,211.2,17.55,1,3,766.19,Drama
+Temper,2024,483.12,126.03,5,5,392.67,Action
+Yevadu,2015,476.84,48.38,5,9,299.55,Action
+Mirchi,2013,357.57,136.68,8,8,392.59,Action
+Businessman,2018,58.84,21.28,1,6,112.04,Romance
+Julayi,2016,394.77,87.9,7,6,1149.97,Drama
+Baahubali,2002,3.21,0.45,5,7,9.77,Action
+RRR,2006,245.13,30.62,5,3,733.07,Drama
+Pushpa,2022,209.4,14.96,6,7,395.47,Comedy
+Ala Vaikunthapurramuloo,2003,234.66,82.24,10,8,929.11,Action
+Sarileru Neekevvaru,2022,413.49,126.98,9,2,439.44,Sci-Fi
+Eega,2017,442.3,23.58,6,9,1211.58,Romance
+Arjun Reddy,2010,14.47,3.59,9,10,13.58,Thriller
+Jersey,2005,474.64,208.47,10,6,629.79,Romance
+Fidaa,2011,43.5,19.31,1,8,173.54,Drama
+Geetha Govindam,2013,196.82,18.43,7,3,519.85,Drama
+Sye,2010,148.47,54.7,8,4,250.15,Drama
+Athadu,2011,415.46,177.86,1,3,1317.44,Drama
+Pokiri,2014,450.13,112.35,3,6,1193.25,Romance
+Magadheera,2009,199.11,80.03,6,10,637.78,Action
+Gabbar Singh,2018,351.82,141.77,5,10,529.32,Romance
+Temper,2004,280.1,61.86,6,10,212.97,Sci-Fi
+Yevadu,2020,464.93,41.81,2,10,716.92,Romance
+Mirchi,2020,383.93,188.19,2,10,496.22,Comedy
+Businessman,2019,179.72,30.05,4,8,179.75,Comedy
+Julayi,2000,449.42,173.54,10,8,1485.35,Comedy
+Baahubali,2014,54.58,25.26,8,5,155.71,Sci-Fi
+RRR,2010,106.2,16.24,5,3,56.87,Thriller
+Pushpa,2004,410.6,51.89,3,1,655.57,Sci-Fi
+Ala Vaikunthapurramuloo,2014,475.69,165.31,10,3,1028.1,Drama
+Sarileru Neekevvaru,2013,14.13,3.36,8,2,17.95,Sci-Fi
+Eega,2001,19.73,4.5,9,5,28.37,Action
+Arjun Reddy,2019,42.44,13.06,2,9,125.6,Drama
+Jersey,2016,152.88,41.0,10,8,204.84,Comedy
+Fidaa,2008,231.71,100.45,5,8,438.88,Drama
+Geetha Govindam,2000,220.92,40.64,3,10,301.95,Comedy
+Sye,2019,417.05,32.82,7,9,1085.57,Comedy
+Athadu,2007,405.49,60.79,5,2,513.82,Action
+Pokiri,2000,259.41,61.61,9,3,895.83,Thriller
+Magadheera,2013,161.47,45.51,6,2,516.07,Sci-Fi
+Gabbar Singh,2011,403.83,24.99,6,2,251.25,Thriller
+Temper,2002,298.92,95.83,9,5,504.99,Thriller
+Yevadu,2022,324.94,133.36,7,5,685.27,Sci-Fi
+Mirchi,2008,443.83,121.3,2,7,1145.38,Romance
+Businessman,2011,77.44,13.93,10,3,228.92,Sci-Fi
+Julayi,2015,51.25,6.69,5,7,47.12,Drama
+Baahubali,2020,192.21,51.18,4,1,472.55,Action
+RRR,2000,86.44,8.82,1,6,215.18,Thriller
+Pushpa,2017,286.22,130.14,1,7,169.57,Drama
+Ala Vaikunthapurramuloo,2018,425.46,69.3,7,5,734.09,Comedy
+Sarileru Neekevvaru,2001,80.54,38.45,5,1,123.49,Action
+Eega,2009,2.24,0.59,6,10,4.96,Romance
+Arjun Reddy,2020,376.88,109.65,2,3,361.1,Thriller
+Jersey,2020,473.14,234.53,7,8,1111.64,Sci-Fi
+Fidaa,2005,469.45,181.22,3,4,853.87,Thriller
+Geetha Govindam,2016,338.41,86.38,2,10,1170.62,Sci-Fi
+Sye,2009,256.44,96.56,5,7,683.81,Action
+Athadu,2002,357.61,67.38,7,8,537.96,Comedy
+Pokiri,2016,26.83,6.31,3,3,89.48,Drama
+Magadheera,2002,163.09,74.71,6,3,361.36,Thriller
+Gabbar Singh,2008,194.95,50.95,5,5,695.59,Romance
+Temper,2014,167.7,63.29,6,2,306.2,Drama
+Yevadu,2002,393.99,128.39,10,6,766.23,Drama
+Mirchi,2017,56.82,4.45,9,7,173.77,Drama
+Businessman,2005,59.62,15.04,10,2,228.67,Comedy
+Julayi,2018,269.85,67.13,9,1,533.81,Romance
+Baahubali,2017,460.07,223.07,3,5,544.37,Thriller
+RRR,2022,325.85,88.61,6,7,645.24,Comedy
+Pushpa,2010,497.06,207.97,6,5,720.6,Sci-Fi
+Ala Vaikunthapurramuloo,2016,44.75,13.75,6,7,164.71,Romance
+Sarileru Neekevvaru,2021,66.16,29.09,10,9,54.13,Action
+Eega,2008,218.05,108.54,5,3,557.51,Comedy
+Arjun Reddy,2015,393.51,103.11,8,5,1447.82,Thriller
+Jersey,2004,139.48,7.9,9,1,264.24,Sci-Fi
+Fidaa,2023,363.24,139.57,10,1,1043.96,Comedy
+Geetha Govindam,2010,336.67,20.22,5,4,689.14,Romance
+Sye,2023,385.51,50.07,3,8,1363.7,Drama
+Athadu,2017,245.27,116.89,3,7,202.36,Action
+Pokiri,2006,453.37,193.27,5,7,1077.35,Drama
+Magadheera,2009,325.8,155.5,8,5,766.92,Comedy
+Gabbar Singh,2014,126.85,54.76,7,7,182.85,Action
+Temper,2001,215.85,79.86,10,5,507.11,Romance
+Yevadu,2023,203.9,29.39,6,2,165.41,Action
+Mirchi,2020,314.08,98.65,6,3,227.99,Sci-Fi
+Businessman,2005,131.26,6.86,7,10,278.84,Romance
+Julayi,2013,379.13,153.51,1,2,945.9,Romance
+Baahubali,2021,23.84,4.16,10,9,52.44,Drama
+RRR,2008,241.33,74.8,4,2,897.58,Sci-Fi
+Pushpa,2009,208.03,79.35,1,6,708.92,Romance
+Ala Vaikunthapurramuloo,2022,263.06,68.89,10,3,808.76,Action
+Sarileru Neekevvaru,2014,345.92,65.11,10,10,659.41,Romance
+Eega,2002,403.05,111.23,6,1,292.35,Romance
+Arjun Reddy,2024,31.88,4.33,6,10,34.41,Action
+Jersey,2015,417.29,105.18,2,5,1519.89,Sci-Fi
+Fidaa,2006,498.55,249.02,5,6,937.22,Sci-Fi
+Geetha Govindam,2012,465.69,116.87,8,9,1572.83,Action
+Sye,2023,408.07,80.14,7,1,1080.72,Sci-Fi
+Athadu,2012,296.64,93.46,8,10,510.82,Action
+Pokiri,2014,377.69,100.34,10,1,1446.9,Romance
+Magadheera,2002,484.06,34.85,5,4,1084.6,Romance
+Gabbar Singh,2008,91.42,23.55,2,1,364.39,Sci-Fi
+Temper,2022,155.49,61.62,2,4,175.96,Thriller
+Yevadu,2024,483.76,108.92,9,5,1747.83,Romance
+Mirchi,2012,95.43,7.19,4,6,265.87,Drama
+Businessman,2008,197.15,23.4,10,7,468.07,Comedy
+Julayi,2004,487.11,155.83,8,1,658.07,Drama
+Baahubali,2008,423.12,103.2,2,6,251.51,Action
+RRR,2010,42.2,11.82,7,3,151.95,Romance
+Pushpa,2013,219.03,97.51,2,3,257.11,Romance
+Ala Vaikunthapurramuloo,2010,433.95,111.05,2,5,1623.37,Thriller
+Sarileru Neekevvaru,2019,5.77,1.72,5,9,22.79,Drama
+Eega,2011,468.29,120.84,4,10,1431.57,Comedy
+Arjun Reddy,2022,327.69,81.26,6,10,805.98,Romance
+Jersey,2007,311.32,48.78,3,2,1018.73,Drama
+Fidaa,2020,448.0,83.63,8,2,602.47,Thriller
+Geetha Govindam,2004,404.65,158.37,6,4,1323.01,Thriller
+Sye,2011,167.35,14.7,9,1,225.7,Comedy
+Athadu,2015,216.37,88.56,2,10,208.27,Romance
+Pokiri,2000,224.93,17.98,6,2,694.68,Sci-Fi
+Magadheera,2010,86.44,41.07,6,3,196.67,Drama
+Gabbar Singh,2022,227.88,78.88,5,3,246.96,Action
+Temper,2008,269.82,46.56,7,10,681.13,Drama
+Yevadu,2011,453.2,193.17,4,8,1065.06,Comedy
+Mirchi,2014,494.46,101.94,3,4,487.41,Sci-Fi
+Businessman,2002,228.45,80.93,6,8,758.34,Comedy
+Julayi,2021,270.2,118.66,8,2,519.58,Sci-Fi
+Baahubali,2021,295.87,55.72,4,10,448.27,Sci-Fi
+RRR,2014,283.53,110.29,8,9,511.63,Drama
+Pushpa,2008,139.33,54.33,5,8,384.69,Romance
+Ala Vaikunthapurramuloo,2002,113.8,8.91,7,7,147.61,Drama
+Sarileru Neekevvaru,2011,83.59,35.33,6,1,278.84,Romance
+Eega,2003,50.51,8.15,9,7,115.41,Romance
+Arjun Reddy,2016,201.05,82.94,9,2,777.84,Action
+Jersey,2009,291.08,44.67,7,4,565.89,Comedy
+Fidaa,2019,321.68,92.02,2,4,177.12,Romance
+Geetha Govindam,2003,181.42,26.2,7,10,534.01,Action
+Sye,2009,124.21,46.18,5,10,135.22,Action
+Athadu,2002,98.59,27.42,4,4,234.86,Sci-Fi
+Pokiri,2007,455.68,27.04,6,2,855.46,Sci-Fi
+Magadheera,2023,40.23,2.16,3,6,73.18,Sci-Fi
+Gabbar Singh,2022,475.38,143.18,3,3,711.75,Sci-Fi
+Temper,2004,124.08,47.21,5,9,474.06,Comedy
+Yevadu,2009,134.26,55.83,9,4,455.22,Drama
+Mirchi,2001,413.58,186.35,8,6,1058.56,Comedy
+Businessman,2000,81.5,38.19,10,10,74.63,Drama
+Julayi,2007,45.62,21.59,5,5,151.79,Sci-Fi
+Baahubali,2006,318.05,101.82,2,5,471.33,Action
+RRR,2007,214.79,98.61,9,2,483.0,Comedy
+Pushpa,2000,327.79,122.87,7,7,1086.13,Thriller
+Ala Vaikunthapurramuloo,2011,368.12,71.7,5,9,595.67,Comedy
+Sarileru Neekevvaru,2004,216.21,11.9,5,7,601.53,Sci-Fi
+Eega,2018,61.94,25.08,5,8,148.97,Romance
+Arjun Reddy,2007,290.8,84.74,1,5,330.45,Sci-Fi
+Jersey,2000,353.52,86.23,6,3,640.37,Comedy
+Fidaa,2005,388.5,83.77,2,7,1372.62,Sci-Fi
+Geetha Govindam,2017,215.53,68.61,10,6,730.95,Thriller
+Sye,2023,97.54,5.46,10,3,212.78,Drama
+Athadu,2000,240.08,48.33,1,1,816.96,Romance
+Pokiri,2020,176.59,50.78,2,6,218.35,Romance
+Magadheera,2009,119.09,8.08,3,1,310.32,Action
+Gabbar Singh,2006,136.08,36.97,6,3,428.8,Romance
+Temper,2020,263.61,113.12,5,6,207.61,Sci-Fi
+Yevadu,2004,479.59,47.93,1,3,363.57,Action
+Mirchi,2005,241.18,34.79,2,6,856.91,Comedy
+Businessman,2017,382.87,83.45,5,9,1520.04,Comedy
+Julayi,2019,390.76,88.58,6,2,705.52,Drama
+Baahubali,2009,460.4,75.95,3,4,1326.37,Sci-Fi
+RRR,2002,340.76,32.95,4,7,989.77,Action
+Pushpa,2004,366.87,177.49,8,6,323.49,Romance
+Ala Vaikunthapurramuloo,2016,65.91,29.32,1,1,189.01,Comedy
+Sarileru Neekevvaru,2021,294.85,139.49,5,5,1091.93,Drama
+Eega,2015,269.79,37.04,3,4,292.48,Comedy
+Arjun Reddy,2012,449.12,25.75,2,4,1070.56,Action
+Jersey,2016,481.29,182.01,3,9,373.93,Comedy
+Fidaa,2017,193.92,68.28,5,7,608.68,Comedy
+Geetha Govindam,2007,411.54,25.09,6,1,945.1,Thriller
+Sye,2022,494.01,132.73,6,9,754.84,Romance
+Athadu,2019,495.33,166.52,3,9,278.54,Drama
+Pokiri,2018,439.26,207.91,7,6,553.55,Romance
+Magadheera,2008,38.83,16.16,3,9,27.93,Sci-Fi
+Gabbar Singh,2008,105.11,13.42,10,3,298.24,Romance
+Temper,2000,366.83,96.23,6,5,495.96,Action
+Yevadu,2000,125.39,12.09,1,6,267.32,Romance
+Mirchi,2005,332.75,133.13,4,10,952.42,Action
+Businessman,2018,174.12,84.83,8,6,96.55,Comedy
+Julayi,2015,321.08,103.78,10,6,449.24,Comedy
+Baahubali,2020,103.13,7.48,7,5,315.83,Sci-Fi
+RRR,2024,282.96,47.13,10,10,697.56,Thriller
+Pushpa,2021,112.96,52.38,4,9,92.24,Comedy
+Ala Vaikunthapurramuloo,2007,488.48,169.94,9,4,937.16,Drama
+Sarileru Neekevvaru,2018,53.15,5.7,10,6,90.19,Drama
+Eega,2001,212.43,51.42,1,4,760.24,Thriller
+Arjun Reddy,2010,396.5,186.69,3,4,1309.64,Action
+Jersey,2015,385.6,76.58,1,3,479.53,Romance
+Fidaa,2015,357.16,132.17,8,1,199.43,Sci-Fi
+Geetha Govindam,2004,428.62,164.33,10,7,1661.71,Thriller
+Sye,2010,477.45,87.06,8,9,391.74,Romance
+Athadu,2016,305.82,114.71,4,9,1091.01,Romance
+Pokiri,2010,237.04,77.27,9,5,825.05,Comedy
+Magadheera,2001,421.68,109.08,6,6,1613.21,Action
+Gabbar Singh,2012,277.97,101.6,9,1,382.45,Thriller
+Temper,2010,259.15,34.84,6,1,374.68,Romance
+Yevadu,2010,254.93,44.69,10,8,357.49,Action
+Mirchi,2010,286.77,139.68,8,10,1121.31,Comedy
+Businessman,2003,139.84,11.8,10,4,499.02,Romance
+Julayi,2009,474.97,126.42,1,9,495.17,Drama
+Baahubali,2009,395.4,176.02,8,4,303.23,Action
+RRR,2013,461.55,121.85,3,10,892.96,Drama
+Pushpa,2024,213.06,37.62,10,6,625.09,Drama
+Ala Vaikunthapurramuloo,2015,319.01,108.47,5,5,654.76,Romance
+Sarileru Neekevvaru,2002,209.55,83.22,2,2,660.78,Thriller
+Eega,2004,498.32,48.95,9,9,1332.94,Romance
+Arjun Reddy,2018,318.05,52.42,8,9,1170.46,Sci-Fi
+Jersey,2006,408.8,75.89,6,6,1462.75,Action
+Fidaa,2020,72.72,27.09,6,6,196.67,Action
+Geetha Govindam,2009,239.96,78.72,3,1,288.19,Drama
+Sye,2019,228.23,48.44,10,6,219.72,Action
+Athadu,2022,224.45,110.66,9,7,420.74,Comedy
+Pokiri,2005,292.36,63.13,3,6,884.75,Action
+Magadheera,2018,11.53,3.64,2,8,29.87,Romance
+Gabbar Singh,2014,390.96,108.33,10,6,908.13,Action
+Temper,2002,314.09,36.33,2,3,289.12,Romance
+Yevadu,2004,222.19,102.26,8,5,322.32,Drama
+Mirchi,2018,8.96,3.28,1,2,10.3,Action
+Businessman,2015,20.06,6.95,6,1,61.0,Action
+Julayi,2013,173.83,33.05,6,7,404.4,Comedy
+Baahubali,2007,108.89,36.99,10,6,393.5,Thriller
+RRR,2004,461.85,114.95,6,2,830.78,Drama
+Pushpa,2013,17.46,2.89,10,5,46.4,Thriller
+Ala Vaikunthapurramuloo,2021,362.74,76.91,5,7,844.53,Action
+Sarileru Neekevvaru,2002,388.79,151.35,7,3,793.62,Thriller
+Eega,2004,362.56,147.58,8,3,1375.3,Action
+Arjun Reddy,2018,327.56,23.85,7,8,238.05,Romance
+Jersey,2002,6.13,1.41,6,1,10.44,Thriller
+Fidaa,2008,446.21,65.26,6,3,1472.71,Action
+Geetha Govindam,2008,6.79,1.83,6,2,8.67,Thriller
+Sye,2013,251.07,76.02,1,10,748.69,Action
+Athadu,2012,457.84,100.4,2,1,1253.26,Drama
+Pokiri,2003,148.6,72.17,6,10,429.48,Thriller
+Magadheera,2014,295.33,66.69,9,6,1009.89,Comedy
+Gabbar Singh,2000,123.66,38.5,3,2,275.51,Sci-Fi
+Temper,2023,130.13,38.57,4,1,236.31,Romance
+Yevadu,2007,90.47,42.44,8,6,159.87,Romance
+Mirchi,2021,477.68,73.34,4,5,963.07,Thriller
+Businessman,2006,128.28,51.46,2,10,259.13,Sci-Fi
+Julayi,2019,50.94,5.2,6,3,138.5,Sci-Fi
+Baahubali,2001,380.24,155.83,3,9,1492.5,Drama
+RRR,2012,308.38,86.59,8,8,315.47,Drama
+Pushpa,2009,203.51,86.41,9,10,547.41,Drama
+Ala Vaikunthapurramuloo,2002,28.08,4.16,5,7,93.5,Romance
+Sarileru Neekevvaru,2015,441.32,34.55,6,1,1657.14,Sci-Fi
+Eega,2001,128.92,54.31,2,8,446.77,Comedy
+Arjun Reddy,2018,249.29,68.29,6,9,506.01,Comedy
+Jersey,2020,369.72,146.03,6,7,408.87,Thriller
+Fidaa,2018,209.66,58.17,6,5,825.63,Thriller
+Geetha Govindam,2008,253.33,123.18,9,10,161.82,Romance
+Sye,2008,106.25,49.99,6,6,213.99,Comedy
+Athadu,2007,301.35,117.49,6,6,1137.77,Comedy
+Pokiri,2008,395.81,138.54,7,10,834.86,Drama
+Magadheera,2023,151.16,39.32,9,5,369.34,Drama
+Gabbar Singh,2012,197.39,94.48,1,2,230.13,Comedy
+Temper,2013,414.04,51.25,1,3,1251.72,Romance
+Yevadu,2016,9.01,4.35,5,8,32.67,Comedy
+Mirchi,2010,129.91,22.02,10,3,389.84,Action
+Businessman,2000,60.8,18.27,2,8,178.2,Action
+Julayi,2004,65.02,17.37,1,4,100.67,Sci-Fi
+Baahubali,2007,417.99,40.41,9,3,474.51,Action
+RRR,2007,221.73,81.03,5,3,168.06,Action
+Pushpa,2012,349.72,135.19,5,10,810.67,Romance
+Ala Vaikunthapurramuloo,2023,473.15,66.87,4,9,1250.36,Thriller
+Sarileru Neekevvaru,2018,430.2,121.07,6,10,319.19,Sci-Fi
+Eega,2003,393.4,94.91,4,7,1292.43,Thriller
+Arjun Reddy,2009,48.92,3.72,4,4,71.93,Sci-Fi
+Jersey,2001,62.59,18.28,6,1,42.65,Comedy
+Fidaa,2019,30.99,3.89,3,3,120.4,Action
+Geetha Govindam,2006,426.12,92.19,10,9,295.7,Thriller
+Sye,2016,307.4,105.96,6,7,567.33,Comedy
+Athadu,2016,432.54,198.89,6,1,671.34,Sci-Fi
+Pokiri,2004,177.72,53.2,10,3,107.91,Romance
+Magadheera,2016,166.42,22.74,7,5,111.09,Sci-Fi
+Gabbar Singh,2001,195.03,65.52,6,7,438.8,Comedy
+Temper,2005,57.75,13.83,6,7,31.73,Drama
+Yevadu,2023,331.56,27.55,2,7,924.16,Action
+Mirchi,2000,422.5,54.46,1,4,1313.64,Sci-Fi
+Businessman,2004,216.51,40.67,8,10,251.9,Sci-Fi
+Julayi,2002,370.86,98.92,8,5,1237.0,Drama
+Baahubali,2004,80.4,31.05,7,6,73.35,Action
+RRR,2004,390.98,83.93,1,9,454.04,Romance
+Pushpa,2010,86.89,17.75,6,2,166.89,Romance
+Ala Vaikunthapurramuloo,2024,326.71,133.03,5,10,723.59,Comedy
+Sarileru Neekevvaru,2006,229.53,52.68,6,10,728.64,Sci-Fi
+Eega,2011,252.91,100.23,3,10,681.68,Romance
+Arjun Reddy,2016,33.99,5.88,8,7,51.73,Romance
+Jersey,2008,121.47,25.11,8,2,279.09,Thriller
+Fidaa,2022,160.12,51.84,10,3,524.44,Thriller
+Geetha Govindam,2001,366.61,129.3,4,6,386.91,Sci-Fi
+Sye,2009,313.49,140.29,4,10,424.59,Action
+Athadu,2007,65.15,10.14,4,10,211.92,Drama
+Pokiri,2021,116.85,52.01,8,10,287.8,Romance
+Magadheera,2021,109.32,18.09,1,1,369.66,Action
+Gabbar Singh,2007,237.82,111.95,3,1,346.16,Action
+Temper,2020,186.58,59.78,5,1,287.11,Thriller
+Yevadu,2015,6.52,3.09,9,5,7.67,Sci-Fi
+Mirchi,2023,450.29,220.48,5,6,1204.33,Thriller
+Businessman,2005,360.42,18.03,7,9,618.75,Drama
+Julayi,2005,31.68,13.63,9,10,89.01,Thriller
+Baahubali,2018,310.85,131.43,6,1,160.97,Sci-Fi
+RRR,2017,445.1,175.49,10,10,678.52,Romance
+Pushpa,2000,76.48,23.86,2,2,100.55,Romance
+Ala Vaikunthapurramuloo,2001,290.63,24.33,3,2,291.88,Romance
+Sarileru Neekevvaru,2000,325.94,103.79,8,4,527.7,Action
+Eega,2009,39.87,14.6,9,1,65.46,Thriller
+Arjun Reddy,2014,115.16,11.46,5,5,400.85,Drama
+Jersey,2000,204.88,43.94,2,6,736.23,Comedy
+Fidaa,2015,457.86,157.8,9,9,1299.82,Sci-Fi
+Geetha Govindam,2005,183.3,83.63,5,6,419.53,Thriller
+Sye,2011,407.69,39.5,3,8,606.75,Comedy
+Athadu,2009,395.08,188.86,9,8,1125.85,Thriller
+Pokiri,2002,411.35,127.66,6,5,1597.34,Action
+Magadheera,2022,122.92,45.7,3,9,407.83,Comedy
+Gabbar Singh,2009,245.98,40.52,6,2,467.21,Thriller
+Temper,2002,397.7,161.0,7,7,768.28,Romance
+Yevadu,2023,385.72,84.33,3,6,1522.04,Sci-Fi
+Mirchi,2015,56.56,26.99,10,9,51.51,Drama
+Businessman,2009,308.34,58.42,4,10,1044.95,Drama
+Julayi,2009,353.01,107.56,7,4,878.15,Comedy
+Baahubali,2010,232.61,82.96,7,1,131.4,Drama
+RRR,2003,455.82,80.91,8,2,1779.76,Thriller
+Pushpa,2015,147.09,19.39,5,4,333.51,Sci-Fi
+Ala Vaikunthapurramuloo,2004,72.35,12.1,3,4,164.82,Drama
+Sarileru Neekevvaru,2014,176.17,55.41,1,6,610.93,Comedy
+Eega,2019,255.08,111.47,9,4,897.3,Drama
+Arjun Reddy,2022,492.74,175.68,10,7,1313.12,Comedy
+Jersey,2012,256.43,115.88,7,3,467.24,Action
+Fidaa,2020,474.56,188.88,6,1,322.93,Drama
+Geetha Govindam,2000,39.01,18.33,1,2,47.37,Comedy
+Sye,2001,168.66,19.17,9,3,161.96,Drama
+Athadu,2004,120.57,51.2,8,6,246.57,Sci-Fi
+Pokiri,2019,145.23,11.18,1,1,420.64,Thriller
+Magadheera,2000,149.32,30.23,1,9,251.84,Thriller
+Gabbar Singh,2022,10.93,3.35,3,1,35.29,Thriller
+Temper,2009,66.14,4.81,9,1,254.3,Action
+Yevadu,2013,60.96,12.07,1,4,87.62,Drama
+Mirchi,2002,211.12,99.48,4,10,692.78,Drama
+Businessman,2006,443.77,118.63,4,10,631.39,Comedy
+Julayi,2016,286.24,133.52,2,8,571.54,Comedy
+Baahubali,2001,226.4,90.9,6,1,402.17,Thriller
+RRR,2016,344.19,55.9,10,2,290.69,Action
+Pushpa,2024,321.62,74.67,1,7,878.75,Comedy
+Ala Vaikunthapurramuloo,2000,132.65,37.52,4,10,203.12,Drama
+Sarileru Neekevvaru,2007,310.62,128.46,9,2,211.62,Action
+Eega,2018,299.49,119.71,4,10,1155.48,Romance
+Arjun Reddy,2015,245.31,59.55,7,5,972.78,Thriller
+Jersey,2022,436.64,205.41,1,1,1316.83,Romance
+Fidaa,2006,401.4,116.14,9,5,1363.89,Thriller
+Geetha Govindam,2001,436.98,39.69,9,3,1427.09,Thriller
+Sye,2001,170.67,30.15,8,2,273.59,Action
+Athadu,2018,464.64,230.73,6,9,558.86,Romance
+Pokiri,2014,7.68,2.48,4,1,16.77,Romance
+Magadheera,2019,287.63,79.69,10,9,958.68,Comedy
+Gabbar Singh,2020,307.89,19.4,10,4,1142.61,Comedy
+Temper,2007,451.56,44.57,10,2,1024.93,Sci-Fi
+Yevadu,2001,277.76,110.27,3,10,180.74,Drama
+Mirchi,2011,359.1,120.17,1,5,730.81,Comedy
+Businessman,2019,246.02,105.25,8,5,422.83,Action
+Julayi,2014,31.59,6.97,5,7,89.05,Thriller
+Baahubali,2010,491.93,169.74,5,6,298.97,Action
+RRR,2015,166.31,57.96,3,5,439.56,Comedy
+Pushpa,2016,295.07,140.48,2,4,1142.92,Thriller
+Ala Vaikunthapurramuloo,2007,174.89,26.39,6,6,248.42,Action
+Sarileru Neekevvaru,2024,488.65,208.58,4,7,1141.16,Romance
+Eega,2008,53.67,11.43,1,5,42.74,Comedy
+Arjun Reddy,2010,391.07,79.03,5,10,696.33,Romance
+Jersey,2023,164.2,52.58,1,9,488.37,Drama
+Fidaa,2021,386.29,80.37,10,9,1261.66,Romance
+Geetha Govindam,2004,485.03,233.77,4,10,1645.19,Comedy
+Sye,2006,346.43,91.87,5,2,1155.68,Sci-Fi
+Athadu,2001,368.58,171.47,1,10,1171.27,Thriller
+Pokiri,2019,50.98,5.64,5,1,56.71,Romance
+Magadheera,2013,100.54,18.51,7,4,250.91,Drama
+Gabbar Singh,2003,168.47,44.21,10,8,473.94,Thriller
+Temper,2004,403.89,188.56,2,10,929.48,Thriller
+Yevadu,2008,333.53,102.81,2,3,292.38,Thriller
+Mirchi,2022,17.45,3.22,6,7,67.57,Sci-Fi
+Businessman,2021,398.72,188.89,7,3,1429.97,Action
+Julayi,2013,289.34,34.58,10,10,391.88,Action
+Baahubali,2018,370.34,23.45,8,8,473.14,Sci-Fi
+RRR,2013,461.02,205.24,1,4,934.46,Action
+Pushpa,2010,427.58,175.62,7,6,1039.21,Action
+Ala Vaikunthapurramuloo,2020,447.49,196.56,10,3,917.06,Sci-Fi
+Sarileru Neekevvaru,2014,125.9,15.95,2,10,149.43,Comedy
+Eega,2016,276.99,123.53,10,1,482.42,Action
+Arjun Reddy,2012,69.54,7.82,8,9,148.56,Action
+Jersey,2016,413.82,113.6,2,1,524.68,Action
+Fidaa,2016,350.81,50.92,1,8,951.13,Action
+Geetha Govindam,2019,160.72,68.18,7,3,534.25,Sci-Fi
+Sye,2021,235.59,78.31,10,7,757.32,Sci-Fi
+Athadu,2007,259.24,40.51,5,2,1030.13,Thriller
+Pokiri,2004,85.94,42.87,3,7,71.37,Comedy
+Magadheera,2013,400.82,162.79,2,5,290.96,Sci-Fi
+Gabbar Singh,2022,394.1,54.6,6,10,351.04,Action
+Temper,2014,66.32,18.55,7,5,224.42,Romance
+Yevadu,2018,380.32,139.7,1,10,1047.77,Sci-Fi
+Mirchi,2016,265.35,113.12,4,3,793.72,Action
+Businessman,2023,447.68,91.3,8,6,235.79,Comedy
+Julayi,2005,194.51,85.15,7,7,743.6,Drama
+Baahubali,2000,273.53,95.1,3,8,365.65,Comedy
+RRR,2001,14.32,3.45,1,9,7.9,Romance
+Pushpa,2009,64.85,23.3,3,8,40.3,Romance
+Ala Vaikunthapurramuloo,2011,33.51,4.56,3,5,39.37,Thriller
+Sarileru Neekevvaru,2022,336.32,84.99,9,3,745.19,Action
+Eega,2024,268.31,17.79,4,1,252.03,Drama
+Arjun Reddy,2014,65.6,30.13,4,4,190.49,Thriller
+Jersey,2020,167.99,34.13,1,7,570.51,Thriller
+Fidaa,2005,161.78,12.26,5,8,388.94,Drama
+Geetha Govindam,2019,352.5,116.69,1,4,1160.62,Action
+Sye,2006,436.15,34.75,1,10,1702.53,Romance
+Athadu,2014,130.25,30.98,7,7,271.93,Drama
+Pokiri,2014,286.95,100.54,4,8,497.98,Romance
+Magadheera,2006,178.87,70.5,6,8,435.0,Drama
+Gabbar Singh,2024,483.67,169.89,5,8,519.85,Sci-Fi
+Temper,2021,78.54,22.16,3,9,49.44,Sci-Fi
+Yevadu,2001,469.4,58.95,6,5,1174.24,Thriller
+Mirchi,2001,131.98,39.65,8,9,289.94,Romance
+Businessman,2007,49.68,6.95,1,8,181.78,Thriller
+Julayi,2004,464.91,31.55,7,6,249.76,Comedy
+Baahubali,2023,163.71,76.82,1,2,569.17,Action
+RRR,2003,335.24,43.76,9,10,1162.93,Drama
+Pushpa,2021,139.04,15.71,9,4,547.9,Drama
+Ala Vaikunthapurramuloo,2003,291.27,86.44,9,3,357.27,Comedy
+Sarileru Neekevvaru,2001,471.63,183.42,3,3,1638.69,Romance
+Eega,2017,122.03,22.56,8,3,199.82,Romance
+Arjun Reddy,2004,115.53,29.18,4,6,444.06,Drama
+Jersey,2007,111.8,10.4,10,3,307.88,Thriller
+Fidaa,2009,223.37,42.41,7,10,493.3,Romance
+Geetha Govindam,2001,416.44,33.72,7,8,1237.6,Comedy
+Sye,2018,388.22,132.81,6,8,392.32,Comedy
+Athadu,2022,103.81,42.53,4,8,385.26,Comedy
+Pokiri,2017,386.06,166.52,4,9,961.6,Comedy
+Magadheera,2008,470.76,102.45,8,3,1252.11,Drama
+Gabbar Singh,2007,330.72,89.41,5,5,352.1,Comedy
+Temper,2012,197.72,53.07,10,4,633.91,Drama
+Yevadu,2016,475.11,63.44,1,6,588.24,Sci-Fi
+Mirchi,2001,209.08,39.21,9,9,402.35,Sci-Fi
+Businessman,2003,112.97,14.29,6,2,176.89,Comedy
+Julayi,2014,370.51,113.51,6,10,853.21,Sci-Fi
+Baahubali,2022,276.33,21.98,2,6,1012.97,Comedy
+RRR,2000,456.05,125.92,2,10,1422.86,Action
+Pushpa,2006,148.39,14.19,2,7,166.0,Action
+Ala Vaikunthapurramuloo,2024,395.37,161.03,5,3,750.87,Sci-Fi
+Sarileru Neekevvaru,2008,328.07,41.74,4,5,1177.6,Drama
+Eega,2009,180.74,87.34,3,7,277.51,Action
+Arjun Reddy,2001,375.9,135.93,3,10,1355.56,Comedy
+Jersey,2004,486.47,84.77,2,9,395.94,Comedy
+Fidaa,2010,475.25,159.88,9,8,1120.96,Romance
+Geetha Govindam,2000,480.75,107.15,4,3,535.85,Romance
+Sye,2007,35.0,12.82,9,5,71.74,Thriller
+Athadu,2011,226.75,112.44,1,8,816.18,Action
+Pokiri,2009,402.66,30.02,2,8,651.47,Comedy
+Magadheera,2009,297.34,141.94,1,4,589.39,Thriller
+Gabbar Singh,2006,308.54,50.21,4,8,1025.97,Drama
+Temper,2004,215.34,88.58,6,5,642.87,Drama
+Yevadu,2024,328.0,76.6,10,8,540.25,Sci-Fi
+Mirchi,2022,73.91,27.89,2,7,152.01,Action
+Businessman,2006,379.87,31.53,4,8,788.19,Romance
+Julayi,2002,66.78,28.72,5,1,60.76,Comedy
+Baahubali,2011,130.96,11.04,2,1,441.85,Sci-Fi
+RRR,2006,273.44,134.68,10,2,1048.34,Thriller
+Pushpa,2001,341.25,53.4,2,10,1293.35,Thriller
+Ala Vaikunthapurramuloo,2013,84.63,30.54,9,5,71.45,Action
+Sarileru Neekevvaru,2006,126.32,34.54,8,7,494.74,Sci-Fi
+Eega,2015,415.83,146.64,9,1,1386.06,Sci-Fi
+Arjun Reddy,2011,152.31,37.97,5,3,109.61,Action
+Jersey,2015,461.14,175.58,8,5,1581.56,Thriller
+Fidaa,2020,156.42,55.89,5,7,521.31,Drama
+Geetha Govindam,2010,175.88,81.16,6,2,172.74,Sci-Fi
+Sye,2014,181.21,65.57,3,3,682.75,Sci-Fi
+Athadu,2018,268.3,36.47,1,3,373.24,Action
+Pokiri,2007,473.15,130.49,9,7,1860.97,Romance
+Magadheera,2009,99.54,43.72,4,10,345.87,Drama
+Gabbar Singh,2001,135.11,28.03,4,10,90.83,Comedy
+Temper,2013,365.27,156.66,7,1,1108.48,Romance
+Yevadu,2014,451.21,200.09,10,8,1735.87,Drama
+Mirchi,2024,490.35,55.88,4,1,378.99,Thriller
+Businessman,2023,4.12,2.01,3,6,12.45,Action
+Julayi,2008,450.17,192.48,5,7,983.1,Action
+Baahubali,2024,297.06,143.28,7,2,593.83,Romance
+RRR,2018,390.21,174.44,1,3,1521.35,Drama
+Pushpa,2017,66.49,27.9,8,3,176.93,Sci-Fi
+Ala Vaikunthapurramuloo,2024,438.58,116.19,3,7,465.75,Thriller
+Sarileru Neekevvaru,2019,449.05,63.25,10,6,1452.26,Drama
+Eega,2005,109.04,46.93,5,8,182.37,Romance
+Arjun Reddy,2020,337.32,104.81,9,10,384.98,Comedy
+Jersey,2004,473.56,192.7,8,7,247.78,Drama
+Fidaa,2020,28.03,6.26,1,1,59.55,Romance
+Geetha Govindam,2015,318.0,33.83,8,6,875.93,Comedy
+Sye,2005,386.89,46.52,2,1,237.68,Thriller
+Athadu,2010,226.69,89.26,9,6,373.19,Drama
+Pokiri,2020,147.75,60.35,5,10,188.27,Action
+Magadheera,2012,278.03,97.31,10,8,633.9,Romance
+Gabbar Singh,2011,149.13,48.1,8,1,336.1,Comedy
+Temper,2005,429.31,118.16,4,9,763.72,Comedy
+Yevadu,2013,322.14,67.25,10,5,1154.48,Thriller
+Mirchi,2001,111.56,43.6,10,3,175.96,Sci-Fi
+Businessman,2017,211.34,61.2,8,7,430.94,Romance
+Julayi,2019,97.01,31.52,10,6,242.21,Thriller
+Baahubali,2014,342.08,109.49,2,5,861.92,Sci-Fi
+RRR,2013,256.07,59.76,7,10,962.24,Romance
+Pushpa,2006,94.03,40.41,7,8,193.93,Action
+Ala Vaikunthapurramuloo,2020,140.22,38.27,10,2,445.84,Romance
+Sarileru Neekevvaru,2010,489.29,46.27,9,1,635.07,Drama
+Eega,2006,427.24,51.49,4,2,1369.74,Sci-Fi
+Arjun Reddy,2005,422.68,208.86,2,5,747.48,Comedy
+Jersey,2009,488.08,217.45,2,8,914.36,Comedy
+Fidaa,2016,23.02,3.36,7,5,61.46,Sci-Fi
+Geetha Govindam,2013,426.27,117.43,9,6,469.6,Romance
+Sye,2001,90.15,20.01,10,9,277.99,Sci-Fi
+Athadu,2021,77.63,35.49,5,6,239.32,Sci-Fi
+Pokiri,2017,139.28,56.5,10,6,95.47,Action
+Magadheera,2013,148.87,50.47,4,10,129.76,Comedy
+Gabbar Singh,2002,395.72,28.12,4,4,1196.28,Thriller
+Temper,2003,87.04,39.62,10,6,85.21,Action
+Yevadu,2010,52.61,25.01,4,10,104.67,Sci-Fi
+Mirchi,2011,229.67,113.75,1,6,392.83,Thriller
+Businessman,2011,72.82,23.21,3,8,263.6,Sci-Fi
+Julayi,2022,60.34,29.9,4,10,87.11,Thriller
+Baahubali,2006,388.2,99.02,2,6,868.55,Drama
+RRR,2002,175.8,11.13,7,3,449.26,Sci-Fi
+Pushpa,2008,436.79,88.56,10,9,731.11,Drama
+Ala Vaikunthapurramuloo,2019,445.04,145.67,3,5,744.75,Action
+Sarileru Neekevvaru,2011,387.64,57.63,10,1,238.57,Thriller
+Eega,2002,214.92,16.27,1,9,269.42,Action
+Arjun Reddy,2010,60.52,17.76,7,8,130.55,Drama
+Jersey,2009,296.95,42.31,3,6,768.27,Thriller
+Fidaa,2009,278.49,116.97,5,4,280.56,Sci-Fi
+Geetha Govindam,2004,72.29,5.79,9,6,154.37,Drama
+Sye,2006,122.63,46.51,1,1,159.59,Thriller
+Athadu,2011,421.74,178.51,7,7,446.1,Action
+Pokiri,2016,403.72,115.81,1,7,666.2,Action
+Magadheera,2001,163.4,52.56,3,2,230.55,Sci-Fi
+Gabbar Singh,2013,186.32,23.51,1,9,374.25,Drama
+Temper,2007,258.49,43.19,6,3,170.27,Drama
+Yevadu,2021,432.6,112.1,4,10,711.32,Romance
+Mirchi,2012,316.94,133.75,3,4,1115.53,Comedy
+Businessman,2023,456.67,117.27,3,8,1468.06,Sci-Fi
+Julayi,2018,168.88,46.54,6,2,514.06,Thriller
+Baahubali,2009,197.43,47.75,8,2,512.77,Romance
+RRR,2019,180.58,28.95,8,8,453.12,Romance
+Pushpa,2021,47.87,16.26,3,2,32.42,Sci-Fi
+Ala Vaikunthapurramuloo,2021,252.32,24.11,5,10,315.24,Action
+Sarileru Neekevvaru,2008,98.11,5.76,10,9,114.79,Romance
+Eega,2024,135.52,67.68,3,10,125.68,Sci-Fi
+Arjun Reddy,2013,30.67,10.67,4,2,85.84,Thriller
+Jersey,2018,285.04,52.41,5,7,220.4,Sci-Fi
+Fidaa,2019,463.08,86.99,5,10,1515.33,Sci-Fi
+Geetha Govindam,2010,122.78,42.39,1,7,326.5,Romance
+Sye,2016,378.71,178.4,4,4,502.83,Romance
+Athadu,2012,11.17,3.98,10,3,22.0,Comedy
+Pokiri,2024,332.81,69.92,6,2,1080.07,Comedy
+Magadheera,2016,116.6,44.36,6,9,237.51,Drama
+Gabbar Singh,2008,85.65,6.83,10,4,58.8,Comedy
+Temper,2006,277.6,65.07,4,10,591.87,Thriller
+Yevadu,2020,71.39,30.21,1,1,58.08,Comedy
+Mirchi,2018,203.59,95.88,7,8,439.93,Comedy
+Businessman,2017,334.5,144.2,7,5,1158.54,Comedy
+Julayi,2002,362.74,115.48,2,9,1378.38,Comedy
+Baahubali,2005,375.92,94.14,4,8,697.05,Sci-Fi
+RRR,2017,53.36,8.44,4,10,56.58,Sci-Fi
+Pushpa,2014,499.98,219.53,1,5,1728.72,Drama
+Ala Vaikunthapurramuloo,2009,235.26,103.92,8,7,212.39,Action
+Sarileru Neekevvaru,2023,427.54,26.91,8,8,323.54,Comedy
+Eega,2023,325.54,128.62,7,6,690.36,Action
+Arjun Reddy,2007,446.97,161.76,9,5,477.97,Sci-Fi
+Jersey,2018,34.52,8.44,1,6,35.41,Action
+Fidaa,2019,455.11,121.95,4,9,262.88,Sci-Fi
+Geetha Govindam,2016,100.83,12.65,10,7,205.04,Drama
+Sye,2016,203.52,52.23,9,7,167.31,Thriller
+Athadu,2008,287.84,127.03,7,4,845.03,Comedy
+Pokiri,2003,186.54,81.85,10,8,102.61,Romance
+Magadheera,2007,110.94,45.37,5,9,427.57,Sci-Fi
+Gabbar Singh,2016,388.59,176.78,6,8,197.08,Comedy
+Temper,2020,166.96,52.35,1,8,349.99,Comedy
+Yevadu,2015,401.77,29.87,9,10,1070.86,Sci-Fi
+Mirchi,2018,110.41,20.07,2,8,298.04,Drama
+Businessman,2002,10.86,1.35,8,1,7.28,Thriller
+Julayi,2002,478.72,182.04,9,6,1488.08,Thriller
+Baahubali,2015,106.87,44.07,9,4,306.38,Drama
+RRR,2009,379.31,188.75,4,5,721.69,Comedy
+Pushpa,2004,10.83,4.07,10,6,37.23,Thriller
+Ala Vaikunthapurramuloo,2021,82.22,39.26,6,10,278.65,Sci-Fi
+Sarileru Neekevvaru,2022,151.19,31.12,6,7,183.77,Drama
+Eega,2019,78.93,12.71,3,10,229.2,Comedy
+Arjun Reddy,2012,390.68,57.14,5,9,1352.72,Comedy
+Jersey,2018,46.28,21.05,6,8,113.62,Action
+Fidaa,2016,248.24,113.64,8,8,273.85,Drama
+Geetha Govindam,2016,420.44,91.16,6,3,1163.48,Romance
+Sye,2000,5.64,1.5,1,9,4.94,Action
+Athadu,2019,79.75,15.88,7,3,47.51,Action
+Pokiri,2017,107.15,44.63,1,7,202.8,Comedy
+Magadheera,2024,23.62,6.69,7,9,53.26,Thriller
+Gabbar Singh,2000,74.25,5.8,6,4,172.66,Drama
+Temper,2002,248.75,83.84,5,10,304.25,Drama
+Yevadu,2015,112.89,23.16,1,9,115.44,Thriller
+Mirchi,2014,282.07,133.37,6,7,655.03,Sci-Fi
+Businessman,2009,326.85,117.11,3,10,1077.56,Drama
+Julayi,2014,207.07,21.07,6,5,717.65,Romance
+Baahubali,2003,141.49,48.79,10,5,518.17,Action
+RRR,2006,133.12,43.61,7,8,365.54,Thriller
+Pushpa,2023,322.18,29.06,8,9,686.57,Action
+Ala Vaikunthapurramuloo,2016,432.29,97.64,9,2,299.31,Thriller
+Sarileru Neekevvaru,2004,9.18,3.51,5,5,20.63,Drama
+Eega,2015,241.92,40.58,2,10,364.68,Thriller
+Arjun Reddy,2017,195.9,19.2,1,10,243.74,Sci-Fi
+Jersey,2021,422.99,168.77,10,7,407.96,Sci-Fi
+Fidaa,2010,2.65,0.61,3,2,5.31,Action
+Geetha Govindam,2016,239.45,112.43,10,7,139.03,Comedy
+Sye,2006,481.37,55.6,6,10,1477.71,Thriller
+Athadu,2012,222.52,111.04,5,10,134.36,Action
+Pokiri,2011,45.87,20.89,9,5,139.91,Sci-Fi
+Magadheera,2004,54.24,26.36,9,6,41.44,Thriller
+Gabbar Singh,2014,220.54,57.95,3,2,312.67,Thriller
+Temper,2018,143.77,43.69,5,6,99.46,Drama
+Yevadu,2005,103.28,13.06,8,2,215.41,Drama
+Mirchi,2014,99.29,37.61,8,7,282.84,Romance
+Businessman,2007,367.24,129.73,6,9,355.56,Action
+Julayi,2012,242.22,58.7,10,4,169.11,Drama
+Baahubali,2004,253.02,57.26,10,6,895.87,Romance
+RRR,2007,481.85,189.46,8,6,1799.86,Sci-Fi
+Pushpa,2000,156.4,48.53,2,8,527.2,Drama
+Ala Vaikunthapurramuloo,2017,29.13,2.09,1,3,44.43,Sci-Fi
+Sarileru Neekevvaru,2001,492.88,152.56,9,7,442.83,Action
+Eega,2013,441.86,206.09,10,10,1259.61,Comedy
+Arjun Reddy,2024,38.73,14.53,2,1,106.96,Drama
+Jersey,2014,92.01,21.77,6,1,336.41,Action
+Fidaa,2023,231.72,75.07,9,4,491.35,Drama
+Geetha Govindam,2016,89.48,20.85,9,7,86.7,Thriller
+Sye,2002,76.38,34.58,7,1,304.39,Drama
+Athadu,2003,80.22,32.43,1,7,199.74,Drama
+Pokiri,2021,374.52,166.94,4,10,353.64,Comedy
+Magadheera,2006,427.86,168.1,5,5,1021.15,Action
+Gabbar Singh,2007,477.36,225.47,10,4,1154.97,Action
+Temper,2005,370.57,38.81,7,1,354.83,Action
+Yevadu,2002,379.58,156.75,1,1,1410.13,Sci-Fi
+Mirchi,2005,329.63,101.11,9,8,1064.96,Drama
+Businessman,2023,11.28,3.05,1,2,15.71,Thriller
+Julayi,2014,462.87,33.41,9,9,724.11,Action
+Baahubali,2013,275.24,89.53,7,6,357.94,Sci-Fi
+RRR,2012,358.26,123.34,8,8,831.15,Drama
+Pushpa,2021,132.02,62.23,10,3,363.0,Drama
+Ala Vaikunthapurramuloo,2000,226.18,49.81,4,4,334.21,Sci-Fi
+Sarileru Neekevvaru,2023,436.97,67.06,4,9,293.48,Sci-Fi
+Eega,2002,248.04,88.75,10,4,486.55,Comedy
+Arjun Reddy,2007,142.82,16.84,5,1,423.05,Thriller
+Jersey,2005,404.18,137.57,9,6,1564.0,Sci-Fi
+Fidaa,2010,381.95,88.15,3,10,1070.38,Action
+Geetha Govindam,2022,112.67,55.62,1,1,254.42,Thriller
+Sye,2004,149.49,72.89,6,10,96.78,Action
+Athadu,2013,207.74,27.0,8,7,231.66,Thriller
+Pokiri,2012,257.63,64.56,6,7,455.86,Drama
+Magadheera,2008,250.25,121.39,5,7,294.5,Sci-Fi
+Gabbar Singh,2024,412.53,88.58,5,5,1343.63,Comedy
+Temper,2010,281.82,29.27,7,4,542.2,Comedy
+Yevadu,2013,300.48,120.34,9,1,1083.45,Comedy
+Mirchi,2015,390.56,108.86,2,5,648.29,Thriller
+Businessman,2018,137.24,63.47,4,7,159.93,Thriller
+Julayi,2014,223.85,32.3,6,4,755.18,Romance
+Baahubali,2022,369.59,28.02,4,2,549.89,Action
+RRR,2008,372.42,153.9,6,5,1117.76,Action
+Pushpa,2000,484.67,164.67,3,10,305.76,Romance
+Ala Vaikunthapurramuloo,2009,68.99,32.39,9,5,106.68,Thriller
+Sarileru Neekevvaru,2012,389.61,132.01,10,7,236.16,Thriller
+Eega,2001,475.22,154.17,3,6,1553.25,Thriller
+Arjun Reddy,2018,98.68,40.2,10,9,389.27,Sci-Fi
+Jersey,2012,412.81,49.75,7,5,1498.2,Comedy
+Fidaa,2000,321.87,103.68,3,10,813.78,Action
+Geetha Govindam,2007,443.4,208.28,10,4,1142.13,Sci-Fi
+Sye,2000,456.28,45.26,5,7,393.92,Drama
+Athadu,2010,323.87,138.88,6,2,256.37,Drama
+Pokiri,2011,63.23,19.75,7,8,61.6,Comedy
+Magadheera,2000,375.52,113.37,4,5,1418.13,Romance
+Gabbar Singh,2018,358.65,169.25,6,8,332.98,Romance
+Temper,2018,491.24,108.99,4,1,584.83,Comedy
+Yevadu,2001,30.86,8.06,2,2,83.72,Action
+Mirchi,2008,32.62,6.99,9,5,102.28,Comedy
+Businessman,2017,294.46,92.41,6,1,666.59,Romance
+Julayi,2004,355.14,172.88,3,1,878.1,Drama
+Baahubali,2006,23.56,10.45,5,4,77.73,Drama
+RRR,2007,351.57,163.97,3,4,298.26,Thriller
+Pushpa,2004,115.62,15.6,1,1,127.88,Romance
+Ala Vaikunthapurramuloo,2018,351.15,84.15,3,9,475.99,Sci-Fi
+Sarileru Neekevvaru,2017,423.05,105.69,7,9,1368.58,Sci-Fi
+Eega,2008,126.56,49.04,1,3,448.54,Romance
+Arjun Reddy,2024,242.46,64.8,9,4,569.48,Romance
+Jersey,2023,498.91,114.12,1,10,818.98,Action
+Fidaa,2019,9.68,1.41,10,5,36.69,Comedy
+Geetha Govindam,2021,294.23,14.98,2,10,821.6,Thriller
+Sye,2017,307.4,47.37,9,10,225.06,Drama
+Athadu,2004,113.77,16.0,7,4,353.49,Action
+Pokiri,2001,168.82,12.3,3,9,116.01,Drama
+Magadheera,2014,87.58,6.8,1,4,291.53,Drama
+Gabbar Singh,2018,16.21,7.16,7,10,35.92,Romance
+Temper,2024,397.39,190.66,6,4,1572.44,Sci-Fi
+Yevadu,2004,240.13,52.53,10,4,877.11,Romance
+Mirchi,2009,206.31,18.86,7,4,140.64,Romance
+Businessman,2011,110.87,37.88,7,9,159.47,Thriller
+Julayi,2003,84.9,25.63,3,9,156.08,Thriller
+Baahubali,2011,270.34,133.9,3,6,519.94,Thriller
+RRR,2005,278.71,131.71,10,3,682.92,Comedy
+Pushpa,2012,417.9,126.21,4,5,493.59,Romance
+Ala Vaikunthapurramuloo,2008,128.85,45.34,7,2,245.04,Thriller
+Sarileru Neekevvaru,2007,255.69,28.09,7,3,718.51,Comedy
+Eega,2018,395.27,35.14,6,10,1201.67,Romance
+Arjun Reddy,2009,27.14,9.35,2,10,95.72,Thriller
+Jersey,2013,67.19,26.14,3,5,185.65,Romance
+Fidaa,2019,109.42,42.11,4,4,235.6,Drama
+Geetha Govindam,2009,468.79,34.6,10,6,1160.47,Drama
+Sye,2011,188.99,90.95,7,10,348.32,Comedy
+Athadu,2014,361.84,137.65,3,8,727.18,Sci-Fi
+Pokiri,2024,208.85,59.91,10,4,605.24,Action
+Magadheera,2019,110.81,46.66,3,6,279.1,Comedy
+Gabbar Singh,2021,220.15,23.84,7,1,229.03,Romance
+Temper,2019,404.82,123.81,8,7,660.61,Comedy
+Yevadu,2017,344.99,69.68,3,8,322.46,Romance
+Mirchi,2010,491.94,161.4,9,10,1494.72,Comedy
+Businessman,2000,29.41,4.15,8,3,58.14,Thriller
+Julayi,2008,306.43,16.2,9,5,1225.66,Drama
+Baahubali,2002,159.73,13.27,10,3,99.1,Thriller
+RRR,2015,236.77,17.11,1,2,666.85,Thriller
+Pushpa,2022,69.3,20.52,1,10,178.44,Romance
+Ala Vaikunthapurramuloo,2020,432.75,142.75,6,8,585.3,Thriller
+Sarileru Neekevvaru,2007,34.54,16.5,9,9,68.43,Drama
+Eega,2004,197.38,10.57,9,8,132.04,Comedy
+Arjun Reddy,2016,473.26,104.59,9,2,1505.09,Sci-Fi
+Jersey,2005,316.99,45.95,3,1,543.81,Thriller
+Fidaa,2000,67.18,12.21,4,2,162.13,Thriller
+Geetha Govindam,2004,283.78,102.78,9,7,961.09,Thriller
+Sye,2012,49.4,5.03,2,2,87.26,Thriller
+Athadu,2023,111.0,10.13,5,2,121.5,Drama
+Pokiri,2017,233.7,80.5,3,6,556.52,Thriller
+Magadheera,2020,393.75,56.72,9,9,1107.71,Action
+Gabbar Singh,2011,371.53,30.48,3,4,650.03,Sci-Fi
+Temper,2019,51.77,18.17,7,8,77.32,Drama
+Yevadu,2008,201.85,66.23,6,7,186.48,Romance
+Mirchi,2004,453.91,86.69,6,3,1525.28,Sci-Fi
+Businessman,2012,296.76,121.44,10,9,914.87,Romance
+Julayi,2004,337.25,140.64,9,10,389.59,Drama
+Baahubali,2016,360.92,121.0,2,5,1245.31,Comedy
+RRR,2010,182.94,63.35,10,2,330.48,Action
+Pushpa,2022,424.08,94.82,3,9,779.2,Sci-Fi
+Ala Vaikunthapurramuloo,2014,145.83,20.02,9,3,169.4,Thriller
+Sarileru Neekevvaru,2016,157.96,45.5,9,8,349.09,Comedy
+Eega,2023,36.62,8.51,2,8,97.62,Sci-Fi
+Arjun Reddy,2022,126.39,61.96,4,1,471.01,Comedy
+Jersey,2015,22.06,1.8,6,10,74.25,Thriller
+Fidaa,2007,322.79,85.75,7,9,619.14,Sci-Fi
+Geetha Govindam,2018,341.05,131.74,5,5,757.85,Sci-Fi
+Sye,2003,464.48,72.79,8,6,326.67,Thriller
+Athadu,2011,342.26,67.15,7,4,841.08,Action
+Pokiri,2009,269.68,68.92,8,2,762.36,Comedy
+Magadheera,2005,224.2,28.32,4,8,471.47,Comedy
+Gabbar Singh,2004,140.33,61.83,6,10,170.51,Drama
+Temper,2013,88.89,35.53,6,6,280.9,Romance
+Yevadu,2004,496.98,215.03,8,7,678.78,Comedy
+Mirchi,2008,240.73,56.91,8,10,259.35,Romance
+Businessman,2001,386.75,172.71,6,1,1223.49,Sci-Fi
+Julayi,2016,215.77,55.65,5,3,810.35,Sci-Fi
+Baahubali,2003,204.23,14.64,10,7,322.45,Thriller
+RRR,2020,487.54,87.72,6,5,1947.26,Thriller
+Pushpa,2023,344.69,47.24,7,3,472.33,Thriller
+Ala Vaikunthapurramuloo,2022,479.8,217.09,6,7,407.66,Action
+Sarileru Neekevvaru,2010,413.37,205.52,8,10,741.11,Thriller
+Eega,2007,233.8,99.96,4,7,633.08,Romance
+Arjun Reddy,2014,108.01,49.96,3,5,80.34,Thriller
+Jersey,2004,352.84,104.45,7,9,1402.69,Sci-Fi
+Fidaa,2001,400.94,171.55,8,7,795.24,Thriller
+Geetha Govindam,2019,311.55,99.6,3,4,260.03,Comedy
+Sye,2005,306.05,18.69,3,8,554.47,Thriller
+Athadu,2021,160.82,19.05,1,8,399.07,Thriller
+Pokiri,2015,444.17,105.72,3,2,1703.93,Thriller
+Magadheera,2002,76.86,13.28,8,5,307.01,Comedy
+Gabbar Singh,2007,425.2,131.6,1,2,1423.22,Thriller
+Temper,2019,335.75,145.43,9,9,1033.72,Comedy
+Yevadu,2023,86.47,12.12,4,6,235.2,Comedy
+Mirchi,2010,75.48,13.59,6,6,188.57,Sci-Fi
+Businessman,2008,1.93,0.27,10,7,2.1,Comedy
+Julayi,2019,131.96,58.39,1,9,422.85,Thriller
+Baahubali,2015,57.39,22.31,4,6,130.65,Thriller
+RRR,2009,83.0,9.78,3,5,197.8,Comedy
+Pushpa,2018,379.96,189.82,8,6,742.39,Romance
+Ala Vaikunthapurramuloo,2017,401.71,81.14,7,9,813.59,Romance
+Sarileru Neekevvaru,2013,267.16,30.89,8,1,284.79,Action
+Eega,2005,483.58,184.26,5,5,1597.09,Action
+Arjun Reddy,2014,414.9,157.22,1,7,1093.36,Comedy
+Jersey,2017,143.49,62.24,4,1,548.05,Thriller
+Fidaa,2024,15.35,1.13,2,4,53.81,Drama
+Geetha Govindam,2023,201.47,32.99,6,9,202.16,Drama
+Sye,2000,449.87,56.58,4,6,1253.82,Thriller
+Athadu,2013,447.82,180.44,8,8,1478.54,Thriller
+Pokiri,2021,433.77,114.73,6,9,225.95,Thriller
+Magadheera,2018,47.79,21.96,2,4,49.36,Romance
+Gabbar Singh,2007,136.89,51.0,4,4,152.9,Romance
+Temper,2023,152.17,55.97,9,8,139.34,Comedy
+Yevadu,2016,139.52,21.74,8,5,537.0,Drama
+Mirchi,2012,92.3,39.34,5,6,70.05,Romance
+Businessman,2012,460.63,88.79,8,1,1414.59,Sci-Fi
+Julayi,2013,288.46,106.71,5,9,443.09,Action
+Baahubali,2021,434.45,24.24,9,9,1383.85,Thriller
+RRR,2007,158.37,30.42,7,2,381.78,Action
+Pushpa,2009,268.31,98.81,3,9,996.73,Sci-Fi
+Ala Vaikunthapurramuloo,2016,292.25,40.73,6,4,537.03,Comedy
+Sarileru Neekevvaru,2000,293.35,126.32,6,7,1148.73,Comedy
+Eega,2000,14.89,2.15,6,2,42.94,Comedy
+Arjun Reddy,2022,442.35,66.73,4,5,1015.42,Thriller
+Jersey,2019,241.62,65.16,10,10,383.61,Drama
+Fidaa,2021,370.6,25.64,2,10,1442.59,Action
+Geetha Govindam,2004,393.21,99.67,4,5,1042.22,Action
+Sye,2024,397.07,37.51,3,4,1353.02,Thriller
+Athadu,2011,489.47,26.76,2,8,1688.05,Romance
+Pokiri,2007,416.88,24.4,7,5,675.5,Action
+Magadheera,2007,89.26,33.81,4,1,297.97,Romance
+Gabbar Singh,2020,456.66,39.86,5,5,363.24,Romance
+Temper,2005,34.48,13.08,5,8,98.12,Drama
+Yevadu,2009,415.85,151.08,10,5,653.9,Sci-Fi
+Mirchi,2007,61.4,9.35,3,1,186.84,Comedy
+Businessman,2000,262.96,44.97,9,3,1051.42,Sci-Fi
+Julayi,2001,430.56,184.33,8,7,1095.39,Action
+Baahubali,2012,303.95,44.53,10,10,903.03,Drama
+RRR,2007,81.58,26.16,8,9,296.1,Comedy
+Pushpa,2023,250.5,54.92,2,10,680.36,Drama
+Ala Vaikunthapurramuloo,2020,383.46,92.59,5,3,1147.63,Action
+Sarileru Neekevvaru,2008,486.8,213.63,5,10,1896.01,Comedy
+Eega,2021,282.97,85.23,9,7,1080.13,Sci-Fi
+Arjun Reddy,2014,471.94,148.62,4,8,1260.58,Romance
+Jersey,2013,444.65,170.68,2,3,312.91,Thriller
+Fidaa,2010,308.35,108.96,7,10,1013.16,Romance
+Geetha Govindam,2024,153.54,56.3,9,4,96.0,Drama
+Sye,2018,224.25,94.52,9,8,772.69,Sci-Fi
+Athadu,2009,337.28,31.78,2,4,1175.62,Romance
+Pokiri,2007,249.67,24.96,6,7,767.92,Comedy
+Magadheera,2020,396.49,135.19,3,2,1329.97,Comedy
+Gabbar Singh,2009,202.47,62.47,3,4,529.61,Romance
+Temper,2017,76.67,29.89,9,9,160.18,Comedy
+Yevadu,2020,170.77,41.65,5,6,121.22,Comedy
+Mirchi,2024,461.09,154.87,1,9,1136.38,Sci-Fi
+Businessman,2023,369.79,65.08,3,10,1178.05,Drama
+Julayi,2016,423.2,40.13,5,4,1548.33,Romance
+Baahubali,2005,497.73,114.17,1,10,798.45,Sci-Fi
+RRR,2013,120.54,50.7,2,6,400.89,Romance
+Pushpa,2023,493.0,233.86,7,3,1474.54,Thriller
+Ala Vaikunthapurramuloo,2000,201.55,85.26,8,1,297.72,Thriller
+Sarileru Neekevvaru,2005,33.24,15.97,3,10,40.78,Sci-Fi
+Eega,2017,5.67,1.79,5,7,3.85,Thriller
+Arjun Reddy,2023,255.69,85.45,8,3,934.81,Sci-Fi
+Jersey,2019,5.18,0.61,2,2,7.66,Comedy
+Fidaa,2005,27.79,11.25,5,10,14.37,Comedy
+Geetha Govindam,2012,338.5,156.43,10,1,550.99,Comedy
+Sye,2021,248.48,29.7,6,8,315.9,Sci-Fi
+Athadu,2022,30.39,8.32,2,1,81.96,Action
+Pokiri,2011,204.23,34.65,9,7,286.27,Romance
+Magadheera,2000,214.83,41.19,6,1,107.84,Thriller
+Gabbar Singh,2020,211.24,90.56,10,4,789.47,Action
+Temper,2023,232.29,18.99,6,5,222.72,Action
+Yevadu,2017,424.29,159.54,5,6,408.18,Comedy
+Mirchi,2014,364.72,171.28,3,6,873.24,Romance
+Businessman,2017,486.79,218.84,8,1,1185.34,Romance
+Julayi,2020,407.49,97.25,7,4,1592.31,Sci-Fi
+Baahubali,2022,97.8,7.79,8,8,264.98,Romance
+RRR,2007,301.57,137.49,7,8,721.08,Comedy
+Pushpa,2000,464.68,217.63,7,1,535.67,Thriller
+Ala Vaikunthapurramuloo,2017,491.59,156.05,7,4,1944.03,Sci-Fi
+Sarileru Neekevvaru,2019,192.97,57.34,5,4,355.22,Thriller
+Eega,2010,372.15,125.04,9,1,773.19,Sci-Fi
+Arjun Reddy,2023,334.71,72.22,4,3,956.2,Comedy
+Jersey,2004,205.15,59.13,5,3,406.28,Drama
+Fidaa,2008,136.43,18.07,9,6,302.33,Drama
+Geetha Govindam,2014,368.94,110.46,2,4,478.94,Thriller
+Sye,2007,446.05,27.65,9,5,1066.74,Action
+Athadu,2003,85.75,16.34,6,10,215.27,Romance
+Pokiri,2004,229.56,90.36,4,9,436.62,Romance
+Magadheera,2011,491.52,74.4,10,2,1084.6,Thriller
+Gabbar Singh,2006,444.31,52.18,7,4,271.98,Thriller
+Temper,2008,41.65,16.04,7,1,70.35,Sci-Fi
+Yevadu,2014,286.35,66.99,8,6,883.07,Sci-Fi
+Mirchi,2005,327.04,42.74,10,2,403.86,Sci-Fi
+Businessman,2017,322.55,136.2,2,6,763.21,Comedy
+Julayi,2019,296.89,111.28,7,9,798.22,Thriller
+Baahubali,2010,452.89,141.45,5,6,1236.55,Action
+RRR,2000,230.69,101.55,3,8,301.6,Romance
+Pushpa,2000,464.09,72.78,2,6,682.03,Drama
+Ala Vaikunthapurramuloo,2014,297.18,54.49,10,5,597.99,Thriller
+Sarileru Neekevvaru,2004,334.77,110.34,6,1,1109.44,Romance
+Eega,2015,137.02,17.57,2,4,112.14,Comedy
+Arjun Reddy,2012,385.57,150.64,1,1,1189.48,Drama
+Jersey,2007,472.47,156.41,2,10,411.42,Sci-Fi
+Fidaa,2009,186.04,59.3,8,7,692.06,Comedy
+Geetha Govindam,2009,457.19,78.76,2,7,335.76,Sci-Fi
+Sye,2021,156.15,8.49,3,4,397.6,Action
+Athadu,2021,21.64,9.09,7,5,70.46,Drama
+Pokiri,2013,189.01,84.93,10,8,267.96,Drama
+Magadheera,2024,175.84,29.18,4,1,414.28,Drama
+Gabbar Singh,2022,142.56,56.55,8,9,317.85,Thriller
+Temper,2013,17.02,4.64,1,6,46.6,Romance
+Yevadu,2006,176.42,11.02,6,4,136.5,Thriller
+Mirchi,2010,497.6,36.99,10,3,1454.25,Comedy
+Businessman,2011,375.5,145.82,3,3,1234.79,Romance
+Julayi,2002,173.73,58.77,5,9,131.63,Action
+Baahubali,2012,272.93,113.99,4,4,1066.2,Drama
+RRR,2021,275.61,90.01,4,8,501.77,Comedy
+Pushpa,2008,186.38,66.8,7,9,378.54,Drama
+Ala Vaikunthapurramuloo,2006,79.66,17.28,1,10,268.82,Sci-Fi
+Sarileru Neekevvaru,2002,113.02,25.3,1,10,382.95,Drama
+Eega,2008,113.9,34.0,7,10,284.12,Romance
+Arjun Reddy,2002,148.54,32.44,9,2,362.59,Sci-Fi
+Jersey,2024,113.1,26.69,5,10,310.78,Comedy
+Fidaa,2000,53.57,8.92,10,10,50.67,Romance
+Geetha Govindam,2001,42.1,2.39,6,8,50.07,Thriller
+Sye,2001,283.79,106.84,8,10,879.62,Action
+Athadu,2008,470.1,74.82,2,1,439.37,Sci-Fi
+Pokiri,2005,107.04,44.98,3,6,205.58,Drama
+Magadheera,2019,331.31,162.31,3,3,352.18,Action
+Gabbar Singh,2023,104.27,40.35,2,2,361.21,Action
+Temper,2012,285.07,74.65,8,8,906.45,Action
+Yevadu,2012,177.03,50.29,6,9,668.16,Action
+Mirchi,2011,392.52,112.67,1,3,714.9,Comedy
+Businessman,2021,159.29,38.95,5,10,517.86,Sci-Fi
+Julayi,2003,315.32,43.19,8,5,1188.28,Romance
+Baahubali,2011,218.65,60.51,4,1,315.21,Romance
+RRR,2003,82.35,5.7,6,5,292.13,Action
+Pushpa,2005,459.51,181.52,7,1,378.24,Thriller
+Ala Vaikunthapurramuloo,2004,489.14,189.81,10,1,1178.1,Action
+Sarileru Neekevvaru,2004,288.42,129.75,3,4,1118.41,Thriller
+Eega,2000,190.2,41.58,1,7,173.76,Comedy
+Arjun Reddy,2013,42.46,15.3,5,1,103.81,Sci-Fi
+Jersey,2001,276.47,44.41,4,6,1084.11,Comedy
+Fidaa,2000,314.44,24.34,8,6,361.0,Drama
+Geetha Govindam,2011,36.69,7.25,10,3,77.97,Sci-Fi
+Sye,2015,63.16,26.02,7,1,176.29,Thriller
+Athadu,2020,252.31,94.82,3,4,814.92,Romance
+Pokiri,2002,319.68,46.67,8,5,1169.1,Comedy
+Magadheera,2010,76.56,31.43,3,3,41.56,Romance
+Gabbar Singh,2005,293.28,96.72,10,6,412.03,Comedy
+Temper,2020,92.82,12.46,3,10,367.85,Action
+Yevadu,2004,137.87,18.35,4,9,318.1,Sci-Fi
+Mirchi,2021,42.23,11.21,3,5,70.44,Drama
+Businessman,2013,271.31,99.7,4,7,339.2,Comedy
+Julayi,2013,194.46,79.61,10,8,207.54,Action
+Baahubali,2001,6.95,2.24,6,6,6.23,Romance
+RRR,2001,42.55,17.59,5,10,119.38,Drama
+Pushpa,2008,205.22,43.14,8,1,243.11,Comedy
+Ala Vaikunthapurramuloo,2009,45.57,16.79,4,5,174.76,Sci-Fi
+Sarileru Neekevvaru,2021,436.0,54.53,1,3,832.66,Action
+Eega,2019,414.87,134.16,9,5,409.87,Thriller
+Arjun Reddy,2002,498.31,243.81,10,2,743.73,Drama
+Jersey,2008,8.03,2.64,7,9,10.97,Thriller
+Fidaa,2009,333.82,149.2,9,8,687.76,Romance
+Geetha Govindam,2015,339.78,46.27,7,4,559.07,Romance
+Sye,2008,409.9,109.88,2,1,1577.35,Sci-Fi
+Athadu,2010,354.74,71.94,8,9,450.34,Thriller
+Pokiri,2020,176.31,83.19,6,6,273.67,Comedy
+Magadheera,2001,282.7,95.75,6,7,228.39,Romance
+Gabbar Singh,2006,453.8,190.35,6,10,1636.84,Sci-Fi
+Temper,2011,382.76,33.65,7,7,431.23,Romance
+Yevadu,2016,497.5,148.85,10,9,1301.94,Thriller
+Mirchi,2001,177.26,85.77,6,2,521.93,Action
+Businessman,2014,296.18,146.84,8,2,866.23,Romance
+Julayi,2021,76.59,15.61,8,10,206.73,Comedy
+Baahubali,2011,298.26,91.53,2,9,860.79,Drama
+RRR,2010,357.2,178.46,5,7,1126.56,Sci-Fi
+Pushpa,2015,425.25,210.72,9,9,1196.61,Action
+Ala Vaikunthapurramuloo,2011,156.07,63.97,6,4,459.94,Thriller
+Sarileru Neekevvaru,2009,18.19,7.95,6,9,68.07,Drama
+Eega,2008,123.54,22.53,4,3,164.66,Comedy
+Arjun Reddy,2005,100.26,25.94,2,4,227.6,Romance
+Jersey,2021,72.0,32.39,8,10,116.51,Comedy
+Fidaa,2019,248.24,42.62,7,10,627.32,Thriller
+Geetha Govindam,2023,457.59,73.92,6,9,573.53,Comedy
+Sye,2004,99.16,40.34,8,2,299.94,Action
+Athadu,2003,278.76,132.89,5,3,306.86,Thriller
+Pokiri,2008,33.28,3.55,5,3,126.36,Drama
+Magadheera,2022,295.83,136.15,3,3,1032.19,Action
+Gabbar Singh,2007,128.34,11.55,6,5,174.6,Sci-Fi
+Temper,2010,138.45,67.71,10,1,364.52,Thriller
+Yevadu,2018,113.66,7.53,3,5,298.24,Comedy
+Mirchi,2015,54.1,7.7,9,3,128.49,Drama
+Businessman,2016,121.47,30.3,5,8,262.42,Comedy
+Julayi,2011,182.74,48.76,9,3,389.28,Sci-Fi
+Baahubali,2021,382.47,185.7,8,10,737.6,Sci-Fi
+RRR,2015,134.37,48.11,10,4,215.96,Comedy
+Pushpa,2000,371.4,125.01,9,3,1060.7,Comedy
+Ala Vaikunthapurramuloo,2011,228.47,23.14,5,4,148.52,Sci-Fi
+Sarileru Neekevvaru,2014,430.97,30.46,1,3,1029.39,Sci-Fi
+Eega,2007,240.37,75.6,3,10,959.86,Sci-Fi
+Arjun Reddy,2014,155.99,55.92,3,9,123.77,Drama
+Jersey,2007,479.92,184.11,4,5,1019.98,Drama
+Fidaa,2017,483.58,31.26,4,7,970.59,Thriller
+Geetha Govindam,2001,177.26,19.42,9,5,380.82,Action
+Sye,2020,346.81,152.12,1,7,459.19,Sci-Fi
+Athadu,2009,135.96,58.85,5,1,426.07,Romance
+Pokiri,2000,374.06,110.42,9,6,1386.72,Action
+Magadheera,2012,27.64,9.54,10,5,100.42,Drama
+Gabbar Singh,2016,337.9,79.47,9,5,724.63,Comedy
+Temper,2007,363.63,19.75,3,5,414.68,Comedy
+Yevadu,2019,15.96,3.66,10,1,23.66,Thriller
+Mirchi,2009,294.54,146.96,7,9,985.66,Sci-Fi
+Businessman,2013,331.86,78.23,3,1,895.96,Action
+Julayi,2012,181.45,78.74,4,4,415.37,Drama
+Baahubali,2002,180.33,61.36,1,6,346.21,Romance
+RRR,2016,250.92,104.94,8,10,965.67,Romance
+Pushpa,2023,270.56,26.92,1,1,191.83,Romance
+Ala Vaikunthapurramuloo,2007,497.07,77.17,1,6,1231.34,Action
+Sarileru Neekevvaru,2011,307.86,49.26,1,3,832.15,Comedy
+Eega,2009,233.14,39.9,3,3,879.76,Thriller
+Arjun Reddy,2008,331.11,127.73,4,6,258.13,Drama
+Jersey,2002,16.05,1.08,4,6,17.93,Drama
+Fidaa,2001,60.14,20.88,7,10,174.68,Drama
+Geetha Govindam,2018,7.62,3.52,10,6,29.26,Comedy
+Sye,2007,447.45,45.94,3,1,1650.0,Drama
+Athadu,2006,144.73,26.99,7,6,99.74,Thriller
+Pokiri,2012,96.53,20.73,3,6,240.04,Drama
+Magadheera,2007,296.66,36.96,5,9,887.28,Thriller
+Gabbar Singh,2013,475.2,209.27,3,4,1166.59,Sci-Fi
+Temper,2024,414.72,189.79,2,7,238.25,Thriller
+Yevadu,2016,245.4,122.07,2,10,581.19,Thriller
+Mirchi,2018,91.5,32.3,3,10,153.91,Sci-Fi
+Businessman,2019,477.76,39.85,8,2,294.89,Comedy
+Julayi,2006,142.38,34.05,1,6,74.26,Action
+Baahubali,2004,393.17,154.49,3,8,717.81,Comedy
+RRR,2001,368.56,96.73,4,1,396.53,Action
+Pushpa,2000,212.79,85.73,8,10,826.47,Sci-Fi
+Ala Vaikunthapurramuloo,2011,23.94,7.35,6,5,60.61,Romance
+Sarileru Neekevvaru,2015,295.57,51.69,3,3,834.34,Thriller
+Eega,2003,287.54,30.17,5,7,729.0,Romance
+Arjun Reddy,2018,168.99,58.17,6,8,243.31,Sci-Fi
+Jersey,2018,287.61,26.87,2,8,980.91,Drama
+Fidaa,2017,475.51,224.72,9,9,467.64,Action
+Geetha Govindam,2000,434.81,198.66,8,4,954.3,Thriller
+Sye,2018,464.2,82.04,3,9,1578.17,Romance
+Athadu,2009,280.53,106.2,1,4,1117.16,Comedy
+Pokiri,2024,16.51,4.95,8,9,61.19,Thriller
+Magadheera,2006,31.91,5.23,2,6,91.28,Comedy
+Gabbar Singh,2011,35.83,11.11,9,10,39.86,Action
+Temper,2014,175.58,55.09,5,6,271.52,Romance
+Yevadu,2007,152.64,63.36,2,4,591.56,Drama
+Mirchi,2024,130.85,27.59,10,5,322.53,Action
+Businessman,2014,256.92,63.41,6,2,649.11,Action
+Julayi,2015,158.38,12.2,8,1,361.07,Action
+Baahubali,2001,442.82,48.94,5,10,1716.38,Romance
+RRR,2009,65.94,23.6,4,5,56.03,Romance
+Pushpa,2022,93.01,35.24,6,2,146.59,Comedy
+Ala Vaikunthapurramuloo,2018,9.79,3.59,10,2,29.81,Sci-Fi
+Sarileru Neekevvaru,2023,154.99,49.82,1,2,195.48,Thriller
+Eega,2023,301.25,66.14,5,7,197.92,Action
+Arjun Reddy,2010,464.87,191.86,4,8,1068.18,Drama
+Jersey,2017,215.91,22.35,3,3,554.92,Action
+Fidaa,2024,401.09,42.14,2,2,523.1,Sci-Fi
+Geetha Govindam,2002,137.16,46.84,4,5,171.14,Drama
+Sye,2004,22.99,7.98,2,1,75.74,Comedy
+Athadu,2004,13.1,4.47,6,6,7.77,Comedy
+Pokiri,2009,249.47,111.13,10,1,555.1,Comedy
+Magadheera,2014,349.7,148.33,2,4,1244.67,Thriller
+Gabbar Singh,2004,19.96,8.35,9,3,65.86,Action
+Temper,2014,23.16,7.03,6,9,25.41,Sci-Fi
+Yevadu,2010,52.89,5.69,4,1,160.55,Action
+Mirchi,2009,74.23,21.69,8,6,265.92,Thriller
+Businessman,2013,373.14,123.48,7,7,647.15,Action
+Julayi,2024,258.07,79.98,9,2,593.23,Romance
+Baahubali,2017,67.89,18.51,8,10,83.96,Action
+RRR,2001,13.88,4.78,3,2,25.53,Drama
+Pushpa,2010,393.33,129.21,7,2,763.58,Sci-Fi
+Ala Vaikunthapurramuloo,2010,188.83,35.43,3,9,330.68,Drama
+Sarileru Neekevvaru,2021,236.52,101.85,8,2,681.5,Thriller
+Eega,2011,298.64,29.55,2,6,1153.15,Drama
+Arjun Reddy,2014,49.29,4.93,5,1,168.16,Comedy
+Jersey,2017,202.97,25.58,6,1,412.7,Romance
+Fidaa,2003,330.64,162.58,1,5,1022.02,Comedy
+Geetha Govindam,2021,248.43,65.73,9,8,229.72,Thriller
+Sye,2009,2.09,0.26,3,5,3.83,Action
+Athadu,2015,140.87,51.77,9,7,271.1,Thriller
+Pokiri,2012,459.07,135.55,7,7,1031.65,Romance
+Magadheera,2009,202.61,44.47,1,1,606.94,Drama
+Gabbar Singh,2002,199.1,32.53,7,8,494.91,Action
+Temper,2016,262.62,79.52,6,5,650.1,Drama
+Yevadu,2017,21.64,5.62,9,1,65.14,Comedy
+Mirchi,2006,493.96,94.49,5,8,774.81,Sci-Fi
+Businessman,2003,218.84,72.57,2,7,575.06,Action
+Julayi,2017,308.65,147.79,4,7,1214.25,Thriller
+Baahubali,2003,247.42,91.17,10,9,695.13,Action
+RRR,2021,124.97,31.0,4,10,118.97,Romance
+Pushpa,2018,237.38,109.34,8,8,278.59,Action
+Ala Vaikunthapurramuloo,2015,382.88,124.73,3,5,539.94,Romance
+Sarileru Neekevvaru,2016,264.66,28.48,8,3,230.98,Comedy
+Eega,2000,456.44,78.37,6,10,254.49,Drama
+Arjun Reddy,2003,36.8,8.57,7,3,29.21,Comedy
+Jersey,2021,299.87,120.45,7,10,268.73,Action
+Fidaa,2016,6.31,1.35,5,3,18.89,Romance
+Geetha Govindam,2012,217.0,57.52,3,7,156.17,Thriller
+Sye,2013,90.47,10.19,6,1,98.96,Action
+Athadu,2004,328.33,42.35,6,3,1268.97,Comedy
+Pokiri,2006,177.08,84.92,5,9,583.25,Action
+Magadheera,2015,258.41,94.82,8,9,442.89,Romance
+Gabbar Singh,2021,355.5,148.7,2,6,203.15,Sci-Fi
+Temper,2016,227.36,111.02,7,5,856.97,Thriller
+Yevadu,2012,228.65,108.22,3,9,811.99,Comedy
+Mirchi,2001,71.06,22.01,10,6,208.01,Comedy
+Businessman,2005,141.24,64.89,8,2,169.88,Comedy
+Julayi,2016,29.61,13.45,8,9,93.6,Action
+Baahubali,2017,224.21,65.64,2,9,478.36,Romance
+RRR,2004,478.35,97.99,7,6,776.49,Drama
+Pushpa,2003,291.12,30.47,7,2,712.57,Action
+Ala Vaikunthapurramuloo,2013,143.62,26.76,2,4,276.11,Sci-Fi
+Sarileru Neekevvaru,2019,176.02,76.25,2,5,245.51,Action
+Eega,2021,269.38,96.05,4,3,341.25,Action
+Arjun Reddy,2017,143.8,27.27,1,4,336.05,Comedy
+Jersey,2007,1.77,0.26,8,2,6.71,Comedy
+Fidaa,2012,120.75,20.03,2,5,390.94,Thriller
+Geetha Govindam,2007,7.15,0.49,9,9,16.58,Romance
+Sye,2011,123.93,19.09,3,7,461.63,Comedy
+Athadu,2000,284.11,71.16,4,9,196.13,Action
+Pokiri,2000,129.11,41.39,3,9,198.77,Action
+Magadheera,2002,281.89,45.19,8,6,411.21,Action
+Gabbar Singh,2016,475.44,141.12,9,5,1732.28,Comedy
+Temper,2024,441.66,188.95,6,9,1397.69,Sci-Fi
+Yevadu,2007,308.37,31.37,7,4,672.96,Drama
+Mirchi,2002,18.39,2.99,1,1,54.89,Sci-Fi
+Businessman,2001,63.93,17.48,4,7,90.21,Sci-Fi
+Julayi,2001,168.55,67.69,4,10,444.22,Romance
+Baahubali,2021,371.25,82.57,6,10,352.41,Action
+RRR,2000,345.6,105.0,7,9,1010.63,Action
+Pushpa,2019,407.27,76.14,3,10,648.91,Comedy
+Ala Vaikunthapurramuloo,2011,136.12,30.57,6,1,389.0,Romance
+Sarileru Neekevvaru,2008,304.55,122.97,3,10,513.28,Sci-Fi
+Eega,2017,288.41,81.6,6,1,949.66,Comedy
+Arjun Reddy,2020,296.07,77.59,10,7,301.19,Action
+Jersey,2015,329.96,46.1,10,8,556.72,Action
+Fidaa,2011,144.23,16.83,7,4,76.21,Thriller
+Geetha Govindam,2006,179.92,18.5,8,4,514.65,Action
+Sye,2017,195.74,40.36,3,2,672.4,Thriller
+Athadu,2015,11.46,3.46,7,8,43.29,Thriller
+Pokiri,2003,47.71,8.66,6,7,37.05,Action
+Magadheera,2010,271.3,27.49,6,4,920.89,Comedy
+Gabbar Singh,2002,355.31,69.18,5,6,1337.43,Action
+Temper,2022,47.35,6.6,1,8,38.06,Thriller
+Yevadu,2010,229.81,88.12,4,7,870.87,Comedy
+Mirchi,2019,424.34,104.3,9,6,656.0,Thriller
+Businessman,2013,159.63,15.49,6,6,94.63,Thriller
+Julayi,2010,240.65,46.5,10,2,865.59,Romance
+Baahubali,2021,187.28,57.47,10,7,111.14,Sci-Fi
+RRR,2021,342.33,148.76,7,8,1085.49,Sci-Fi
+Pushpa,2013,180.6,20.75,10,4,149.16,Thriller
+Ala Vaikunthapurramuloo,2002,260.54,13.31,9,5,490.01,Sci-Fi
+Sarileru Neekevvaru,2020,349.88,112.97,10,10,791.56,Comedy
+Eega,2011,69.99,15.73,1,4,172.5,Action
+Arjun Reddy,2008,226.84,25.41,9,5,139.62,Thriller
+Jersey,2003,356.96,171.22,6,5,1318.19,Sci-Fi
+Fidaa,2007,258.67,54.81,10,4,284.03,Drama
+Geetha Govindam,2020,476.73,84.97,5,8,1345.3,Romance
+Sye,2007,313.35,121.22,3,4,420.06,Sci-Fi
+Athadu,2006,83.72,37.03,7,6,165.18,Comedy
+Pokiri,2014,179.31,61.34,10,8,414.55,Drama
+Magadheera,2024,323.01,25.47,7,10,691.12,Thriller
+Gabbar Singh,2023,10.49,2.21,7,5,5.79,Sci-Fi
+Temper,2001,480.47,45.99,2,4,1719.94,Sci-Fi
+Yevadu,2000,174.71,41.32,4,1,506.53,Action
+Mirchi,2020,427.83,116.66,5,3,330.7,Drama
+Businessman,2006,229.7,102.93,2,4,232.1,Action
+Julayi,2003,36.4,7.79,4,8,46.95,Comedy
+Baahubali,2007,41.77,16.23,9,4,68.88,Romance
+RRR,2003,403.98,54.86,10,3,222.31,Thriller
+Pushpa,2006,136.31,9.98,5,7,215.47,Thriller
+Ala Vaikunthapurramuloo,2022,256.78,115.86,1,10,762.11,Action
+Sarileru Neekevvaru,2021,21.0,5.44,2,2,66.41,Romance
+Eega,2024,496.84,183.78,6,4,370.35,Romance
+Arjun Reddy,2003,372.68,37.15,4,8,1389.89,Drama
+Jersey,2020,128.47,48.98,3,7,470.58,Thriller
+Fidaa,2019,17.69,8.42,6,7,34.15,Romance
+Geetha Govindam,2015,314.98,69.63,6,4,443.57,Sci-Fi
+Sye,2015,491.24,60.18,1,3,1820.8,Sci-Fi
+Athadu,2007,462.11,27.09,2,2,570.59,Drama
+Pokiri,2016,443.73,186.0,3,10,903.85,Sci-Fi
+Magadheera,2013,319.57,157.1,5,10,510.72,Drama
+Gabbar Singh,2010,136.64,20.93,6,4,398.78,Romance
+Temper,2023,51.66,8.79,6,6,92.12,Romance
+Yevadu,2020,428.85,131.73,5,1,1363.91,Thriller
+Mirchi,2010,32.54,16.21,5,6,22.8,Thriller
+Businessman,2015,401.98,96.18,7,5,970.84,Comedy
+Julayi,2024,21.9,5.53,10,10,75.21,Drama
+Baahubali,2004,282.6,68.59,9,2,821.55,Sci-Fi
+RRR,2022,115.86,25.64,3,6,409.85,Drama
+Pushpa,2011,462.48,41.85,10,3,1340.8,Sci-Fi
+Ala Vaikunthapurramuloo,2022,259.66,98.48,2,1,922.4,Comedy
+Sarileru Neekevvaru,2004,115.16,44.48,8,6,409.96,Comedy
+Eega,2024,141.31,20.34,10,2,533.34,Comedy
+Arjun Reddy,2007,396.05,30.81,10,7,248.95,Drama
+Jersey,2015,342.48,78.85,9,6,1053.12,Drama
+Fidaa,2010,84.08,7.2,2,1,166.61,Comedy
+Geetha Govindam,2016,219.83,38.88,1,10,473.2,Sci-Fi
+Sye,2006,473.17,53.38,10,1,320.7,Comedy
+Athadu,2024,43.09,8.01,5,4,167.3,Romance
+Pokiri,2001,393.23,90.02,8,3,812.33,Drama
+Magadheera,2001,205.84,71.11,3,2,466.94,Drama
+Gabbar Singh,2013,174.89,51.33,4,8,501.12,Action
+Temper,2021,171.35,17.18,7,10,389.47,Thriller
+Yevadu,2014,311.13,73.68,10,3,697.34,Action
+Mirchi,2004,483.69,234.6,8,10,1068.84,Comedy
+Businessman,2005,241.65,52.02,1,5,238.67,Drama
+Julayi,2020,352.98,129.79,4,1,885.39,Sci-Fi
+Baahubali,2018,188.06,36.55,3,8,749.21,Sci-Fi
+RRR,2015,46.94,19.49,7,10,100.83,Thriller
+Pushpa,2002,52.36,22.85,2,5,203.19,Drama
+Ala Vaikunthapurramuloo,2013,311.03,129.02,4,2,203.88,Sci-Fi
+Sarileru Neekevvaru,2024,311.04,63.14,4,8,239.42,Comedy
+Eega,2020,348.32,111.81,4,10,782.89,Thriller
+Arjun Reddy,2007,147.83,8.24,5,1,547.27,Romance
+Jersey,2004,417.7,40.27,10,4,1039.46,Comedy
+Fidaa,2000,15.18,6.82,9,4,17.26,Action
+Geetha Govindam,2019,234.78,115.08,4,3,255.8,Action
+Sye,2001,320.76,139.13,4,3,344.22,Romance
+Athadu,2018,37.92,6.54,5,3,114.01,Drama
+Pokiri,2019,173.83,71.49,7,5,547.5,Drama
+Magadheera,2014,294.9,28.66,3,10,517.53,Comedy
+Gabbar Singh,2000,185.53,22.06,7,9,403.77,Action
+Temper,2004,383.16,134.46,4,4,543.25,Sci-Fi
+Yevadu,2000,148.99,16.58,7,6,433.11,Romance
+Mirchi,2020,165.68,43.23,2,5,237.91,Romance
+Businessman,2005,62.22,8.63,9,1,73.1,Thriller
+Julayi,2002,226.59,28.21,7,5,185.0,Thriller
+Baahubali,2005,85.91,21.26,2,5,312.03,Romance
+RRR,2013,74.9,6.66,10,1,42.25,Thriller
+Pushpa,2019,481.27,124.19,2,6,728.0,Action
+Ala Vaikunthapurramuloo,2011,40.12,14.96,5,5,95.25,Thriller
+Sarileru Neekevvaru,2001,334.17,123.07,9,10,230.34,Romance
+Eega,2003,207.85,21.22,8,2,332.11,Drama
+Arjun Reddy,2008,358.72,123.88,5,3,938.73,Action
+Jersey,2000,86.71,30.58,10,3,229.95,Romance
+Fidaa,2010,182.17,60.48,10,3,569.66,Drama
+Geetha Govindam,2017,495.35,65.45,8,2,303.01,Action
+Sye,2020,435.06,74.55,8,7,1730.62,Sci-Fi
+Athadu,2005,143.08,27.74,1,2,357.45,Thriller
+Pokiri,2016,5.68,1.24,10,7,18.19,Sci-Fi
+Magadheera,2018,233.15,65.98,6,9,746.81,Action
+Gabbar Singh,2004,6.01,0.47,9,3,13.26,Comedy
+Temper,2023,178.67,35.44,8,7,539.43,Drama
+Yevadu,2012,458.92,106.3,2,8,685.89,Romance
+Mirchi,2007,352.96,63.75,10,7,1250.51,Romance
+Businessman,2015,234.54,66.59,5,8,623.74,Drama
+Julayi,2000,147.82,62.94,3,8,465.12,Thriller
+Baahubali,2021,146.92,63.15,4,1,562.34,Sci-Fi
+RRR,2021,94.01,43.13,9,1,134.6,Action
+Pushpa,2005,32.1,9.32,2,1,52.88,Thriller
+Ala Vaikunthapurramuloo,2001,93.81,25.82,7,2,322.78,Thriller
+Sarileru Neekevvaru,2007,447.94,174.6,8,1,1119.02,Action
+Eega,2009,200.6,80.07,7,7,257.02,Sci-Fi
+Arjun Reddy,2017,275.3,34.65,9,10,577.67,Action
+Jersey,2008,379.25,120.28,3,8,1177.44,Comedy
+Fidaa,2014,196.06,61.51,6,6,159.05,Sci-Fi
+Geetha Govindam,2002,142.5,68.98,9,4,227.98,Drama
+Sye,2004,168.34,79.3,9,5,250.63,Comedy
+Athadu,2016,201.1,67.57,3,4,283.5,Comedy
+Pokiri,2016,186.22,22.23,9,9,511.99,Sci-Fi
+Magadheera,2023,315.89,87.88,3,6,744.29,Sci-Fi
+Gabbar Singh,2011,131.17,57.8,3,10,226.07,Comedy
+Temper,2009,39.53,16.5,10,9,103.55,Sci-Fi
+Yevadu,2018,304.59,86.46,4,10,266.63,Comedy
+Mirchi,2000,423.55,183.39,7,3,247.26,Sci-Fi
+Businessman,2005,335.73,114.57,7,5,541.95,Drama
+Julayi,2001,262.01,96.91,5,9,712.77,Romance
+Baahubali,2008,425.09,112.17,10,5,219.64,Thriller
+RRR,2016,358.82,105.12,9,2,927.47,Comedy
+Pushpa,2009,52.0,15.63,6,1,65.24,Sci-Fi
+Ala Vaikunthapurramuloo,2005,336.41,72.08,7,1,938.86,Drama
+Sarileru Neekevvaru,2012,273.24,18.09,8,4,621.79,Sci-Fi
+Eega,2003,186.41,90.54,9,7,560.53,Action
+Arjun Reddy,2022,476.29,40.79,3,8,1805.61,Sci-Fi
+Jersey,2018,370.17,141.94,10,1,911.85,Romance
+Fidaa,2002,421.47,99.48,5,9,278.93,Thriller
+Geetha Govindam,2014,240.34,91.9,4,1,871.95,Action
+Sye,2010,430.86,110.43,10,2,975.67,Action
+Athadu,2007,387.91,42.18,3,1,1456.55,Drama
+Pokiri,2009,104.87,35.26,1,5,223.42,Drama
+Magadheera,2015,289.65,89.17,2,10,412.71,Drama
+Gabbar Singh,2010,83.15,8.84,3,2,146.41,Thriller
+Temper,2000,366.23,80.57,2,7,1199.46,Sci-Fi
+Yevadu,2000,36.13,17.5,3,9,85.61,Drama
+Mirchi,2002,171.72,52.53,5,9,466.27,Action
+Businessman,2002,367.95,88.88,4,10,590.91,Drama
+Julayi,2023,445.51,198.45,9,2,1177.95,Romance
+Baahubali,2011,369.82,63.98,4,10,1044.11,Romance
+RRR,2011,267.52,41.43,9,5,800.74,Romance
+Pushpa,2018,464.38,171.62,5,5,1319.72,Thriller
+Ala Vaikunthapurramuloo,2012,212.03,58.75,5,1,579.0,Romance
+Sarileru Neekevvaru,2015,170.72,77.4,7,1,566.84,Action
+Eega,2012,31.12,2.96,10,8,47.22,Comedy
+Arjun Reddy,2008,474.89,186.54,1,5,1200.48,Sci-Fi
+Jersey,2000,437.77,145.61,5,8,1068.93,Sci-Fi
+Fidaa,2022,260.4,58.68,3,1,613.88,Drama
+Geetha Govindam,2016,382.88,164.19,8,9,720.08,Thriller
+Sye,2012,40.31,11.91,2,10,75.01,Comedy
+Athadu,2021,344.08,82.85,2,7,613.16,Sci-Fi
+Pokiri,2007,411.59,73.77,2,10,626.1,Comedy
+Magadheera,2019,344.48,98.55,1,5,1319.87,Thriller
+Gabbar Singh,2001,93.52,13.63,2,2,248.25,Thriller
+Temper,2023,414.79,78.88,2,7,729.79,Sci-Fi
+Yevadu,2012,328.24,113.79,9,7,661.3,Action
+Mirchi,2004,3.47,0.96,1,8,3.39,Thriller
+Businessman,2001,2.88,0.35,1,6,3.81,Thriller
+Julayi,2005,206.07,14.6,1,5,741.87,Romance
+Baahubali,2002,354.25,118.89,3,5,178.02,Action
+RRR,2021,187.35,43.72,3,3,440.16,Sci-Fi
+Pushpa,2022,54.15,5.17,7,1,183.12,Sci-Fi
+Ala Vaikunthapurramuloo,2014,460.43,73.69,5,2,1309.49,Drama
+Sarileru Neekevvaru,2022,74.67,25.23,3,4,182.98,Romance
+Eega,2010,44.22,5.52,10,10,37.42,Action
+Arjun Reddy,2022,392.79,104.01,3,10,1277.11,Action
+Jersey,2014,50.84,18.66,6,10,164.11,Sci-Fi
+Fidaa,2015,353.42,62.85,10,10,875.13,Sci-Fi
+Geetha Govindam,2005,478.8,58.57,7,8,1323.05,Romance
+Sye,2002,382.2,42.73,5,5,865.89,Sci-Fi
+Athadu,2019,206.05,93.67,1,9,524.64,Sci-Fi
+Pokiri,2014,92.07,22.64,2,8,318.76,Thriller
+Magadheera,2004,311.95,127.27,6,7,815.36,Comedy
+Gabbar Singh,2004,154.38,38.61,7,1,484.07,Action
+Temper,2001,352.3,160.12,6,3,684.17,Action
+Yevadu,2009,38.11,4.18,3,8,39.08,Action
+Mirchi,2004,49.77,14.16,8,9,109.94,Action
+Businessman,2005,100.79,39.94,10,6,71.57,Drama
+Julayi,2013,158.91,57.13,4,3,82.3,Thriller
+Baahubali,2020,135.49,36.33,10,2,480.31,Drama
+RRR,2005,294.51,129.55,5,2,647.8,Sci-Fi
+Pushpa,2010,155.89,17.87,5,9,239.07,Romance
+Ala Vaikunthapurramuloo,2008,223.54,64.51,8,9,233.75,Comedy
+Sarileru Neekevvaru,2010,302.73,95.25,8,10,297.73,Romance
+Eega,2022,411.08,74.86,6,2,832.85,Action
+Arjun Reddy,2024,59.69,12.01,5,1,70.35,Action
+Jersey,2015,339.41,59.53,1,8,1111.34,Drama
+Fidaa,2023,242.83,33.66,7,2,815.06,Sci-Fi
+Geetha Govindam,2007,24.96,6.99,8,2,21.2,Sci-Fi
+Sye,2016,389.62,49.4,1,10,368.45,Comedy
+Athadu,2001,222.2,106.21,9,10,371.87,Drama
+Pokiri,2005,21.75,4.35,1,2,23.43,Sci-Fi
+Magadheera,2024,103.42,17.0,5,3,313.01,Comedy
+Gabbar Singh,2004,306.77,80.35,6,9,158.88,Action
+Temper,2022,358.38,121.92,2,8,710.2,Action
+Yevadu,2006,312.22,134.12,6,6,221.53,Comedy
+Mirchi,2012,439.31,91.14,10,6,308.74,Drama
+Businessman,2022,331.58,19.4,8,4,260.74,Action
+Julayi,2008,300.04,61.73,8,7,1015.9,Drama
+Baahubali,2014,446.71,60.21,6,8,574.16,Action
+RRR,2005,472.46,126.45,1,8,1784.41,Action
+Pushpa,2000,257.62,50.14,3,1,817.92,Romance
+Ala Vaikunthapurramuloo,2010,98.5,44.93,8,3,152.62,Thriller
+Sarileru Neekevvaru,2000,483.52,220.61,5,3,1226.34,Thriller
+Eega,2011,223.42,69.78,7,9,544.84,Comedy
+Arjun Reddy,2009,2.54,0.18,6,5,4.61,Drama
+Jersey,2008,54.98,8.99,3,10,163.01,Thriller
+Fidaa,2016,179.16,85.28,5,2,661.64,Comedy
+Geetha Govindam,2019,168.19,15.86,5,4,490.32,Drama
+Sye,2011,452.26,156.62,6,4,761.39,Drama
+Athadu,2006,225.67,101.04,10,1,445.92,Thriller
+Pokiri,2011,402.96,157.09,3,2,874.21,Romance
+Magadheera,2003,87.03,19.97,7,3,143.89,Romance
+Gabbar Singh,2005,333.97,132.64,7,4,401.52,Comedy
+Temper,2005,429.43,131.64,6,6,855.86,Comedy
+Yevadu,2012,386.11,28.04,6,9,256.23,Romance
+Mirchi,2009,255.1,96.06,6,1,230.5,Romance
+Businessman,2014,186.25,44.34,6,7,119.62,Thriller
+Julayi,2020,112.03,29.34,10,2,85.31,Action
