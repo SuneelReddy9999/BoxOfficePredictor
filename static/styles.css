@@ -108,3 +108,22 @@ button {
 button:hover {
     background: #ff4500;
 }
+@media (max-width: 768px) {  
+    /* Stack form and images vertically */
+    .container {
+        width: 90%;  /* Adjust form width */
+        margin: auto;
+    }
+    
+    .poster-container {
+        flex-direction: column; /* Stack images below form */
+        align-items: center;
+        margin-top: 20px;
+    }
+    
+    .poster {
+        width: 80%;  /* Make images responsive */
+        height: auto;
+        margin-bottom: 15px; /* Add spacing */
+    }
+}
