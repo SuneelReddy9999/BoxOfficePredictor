@@ -1,10 +1,11 @@
 import pandas as pd
 import numpy as np
+import xgboost as xgb
 from sklearn.preprocessing import StandardScaler, OneHotEncoder
-from sklearn.ensemble import GradientBoostingRegressor
 from sklearn.model_selection import train_test_split
 from sklearn.compose import ColumnTransformer
 from sklearn.pipeline import Pipeline
+import joblib
 
 def train_model(dataset_path):
     df = pd.read_csv(dataset_path)
@@ -24,7 +25,7 @@ def train_model(dataset_path):
     # Define Model Pipeline
     model = Pipeline([
         ("preprocessor", preprocessor),
-        ("regressor", GradientBoostingRegressor(n_estimators=200, learning_rate=0.05, random_state=42))
+        ("regressor", xgb.XGBRegressor(n_estimators=300, learning_rate=0.05, random_state=42))
     ])
 
     # Train-Test Split
@@ -33,6 +34,9 @@ def train_model(dataset_path):
     # Train the Model
     model.fit(X_train, y_train)
 
+    # Save the model
+    joblib.dump(model, "movie_model.pkl")
+    
     return model
 
 def classify_success(budget, marketing_spend, collection):
@@ -48,7 +52,8 @@ def classify_success(budget, marketing_spend, collection):
     else:
         return "Flop"
 
-def predict_movie_success(model, movie_name, budget, marketing_spend, actor_popularity, director_rating, genre):
+def predict_movie_success(movie_name, budget, marketing_spend, actor_popularity, director_rating, genre):
+    model = joblib.load("movie_model.pkl")
     input_data = pd.DataFrame([[budget, marketing_spend, actor_popularity, director_rating, genre]],
                               columns=["Budget (Cr)", "Marketing Spend (Cr)", "Lead Actor Popularity", "Director Rating", "Genre"])
     

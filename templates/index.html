@@ -7,7 +7,14 @@
     <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
 </head>
 <body>
-    <div class="container">
+    <!-- LEFT SIDE POSTERS -->
+    <div class="poster-container left-side">
+        <img src="{{ url_for('static', filename='posters/rrr.jpg') }}" class="poster">
+        <img src="{{ url_for('static', filename='posters/bahubali.jpg') }}" class="poster">
+    </div>
+
+    <!-- FORM IN CENTER -->
+    <div class="form-container">
         <h1>🎬 Movie Collection Predictor 🎥</h1>
         <form action="/predict" method="post">
             <label for="movie_name">🎞️ Movie Name:</label>
@@ -20,8 +27,7 @@
                 <option value="Romance">Romance</option>
                 <option value="Thriller">Thriller</option>
                 <option value="Fantasy">Fantasy</option>
-    <!-- Add more genres as needed -->
-</select>
+            </select>
 
             <label for="budget">💰 Budget (Cr):</label>
             <input type="number" id="budget" name="budget" step="0.01" required>
@@ -37,6 +43,12 @@
 
             <button type="submit">🚀 Predict</button>
         </form>
+    </div>
+
+    <!-- RIGHT SIDE POSTERS -->
+    <div class="poster-container right-side">
+        <img src="{{ url_for('static', filename='posters/pushpa.jpg') }}" class="poster">
+        <img src="{{ url_for('static', filename='posters/kgf.jpg') }}" class="poster">
     </div>
 </body>
 </html>

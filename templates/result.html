@@ -7,16 +7,27 @@
     <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
 </head>
 <body>
-    <div class="container">
+<!-- LEFT SIDE POSTERS -->
+    <div class="poster-container left-side">
+        <img src="{{ url_for('static', filename='posters/rrr.jpg') }}" class="poster">
+        <img src="{{ url_for('static', filename='posters/bahubali.jpg') }}" class="poster">
+    </div>
+    <div class="form-container">
         <h1>🎬 Prediction Result 🎥</h1>
         
-        <p><strong>Movie Name:</strong> <span class="highlight">{{ movie }}</span></p>
-        <p><strong>Genre:</strong> <span class="highlight">{{ genre }}</span></p>
-        <p><strong>Predicted Box Office Collection:</strong> <span class="highlight">₹{{ collection }} Cr</span></p>
-        <p><strong>Movie Category:</strong> <span class="highlight category-{{ category|lower }}">{{ category }}</span></p>
+        <p><strong>Movie Name:</strong> {{ movie }}</p>
+        <p><strong>Genre:</strong> {{ genre }}</p>
+        <p><strong>Predicted Collection:</strong> ₹{{ collection }} Cr</p>
+        <p><strong>Category:</strong> {{ category }}</p>
         
         <a href="/" class="btn">🔄 Try Again</a>
     </div>
+</div>
+
+    <!-- RIGHT SIDE POSTERS -->
+    <div class="poster-container right-side">
+        <img src="{{ url_for('static', filename='posters/pushpa.jpg') }}" class="poster">
+        <img src="{{ url_for('static', filename='posters/kgf.jpg') }}" class="poster">
+    </div>
 </body>
 </html>
-

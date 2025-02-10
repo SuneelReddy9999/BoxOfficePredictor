@@ -1,38 +1,31 @@
 from flask import Flask, render_template, request
-import pandas as pd
-import os
-from ml import predict_movie_success, train_model
 
 app = Flask(__name__)
 
-# Load and train model
-dataset_path = os.path.join(os.path.dirname(__file__), "dataset.csv")
-model = train_model(dataset_path)
-
-@app.route("/")
+@app.route('/')
 def home():
-    return render_template("index.html")
+    return render_template('index.html')
 
-@app.route("/predict", methods=["POST"])
+@app.route('/predict', methods=['POST'])
 def predict():
-    try:
-        movie_name = request.form["movie_name"]
-        genre = request.form["genre"]  # Get genre from the form
-        budget = float(request.form["budget"])
-        marketing_spend = float(request.form["marketing_spend"])
-        actor_popularity = float(request.form["actor_popularity"])
-        director_rating = float(request.form["director_rating"])
+    movie_name = request.form['movie_name']
+    genre = request.form['genre']
+    budget = float(request.form['budget'])
+    marketing_spend = float(request.form['marketing_spend'])
+    actor_popularity = int(request.form['actor_popularity'])
+    director_rating = int(request.form['director_rating'])
 
-        predicted_collection, predicted_category = predict_movie_success(
-            model, movie_name, budget, marketing_spend, actor_popularity, director_rating, genre
-        )
+    # Dummy prediction formula (Replace with ML model)
+    collection = (budget * 2) + (marketing_spend * 1.5) + (actor_popularity * 10) + (director_rating * 8)
 
-        return render_template(
-            "result.html", movie=movie_name, genre=genre, collection=predicted_collection, category=predicted_category
-        )
+    if collection > 100:
+        category = "Blockbuster"
+    elif collection > 50:
+        category = "Hit"
+    else:
+        category = "Average"
 
-    except Exception as e:
-        return f"Error: {str(e)}"
+    return render_template('result.html', movie=movie_name, genre=genre, collection=collection, category=category)
 
-if __name__ == "__main__":
+if __name__ == '__main__':
     app.run(debug=True)
