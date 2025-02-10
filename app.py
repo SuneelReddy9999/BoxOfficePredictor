@@ -1,6 +1,24 @@
 from flask import Flask, render_template, request
+import joblib
+import pandas as pd
 
 app = Flask(__name__)
+
+# Load the trained model
+model = joblib.load("movie_model.pkl")
+
+def classify_success(budget, marketing_spend, collection):
+    roi = collection / (budget + marketing_spend)
+    if roi >= 5:
+        return "Blockbuster"
+    elif roi >= 3:
+        return "Superhit"
+    elif roi >= 2:
+        return "Hit"
+    elif roi >= 1:
+        return "Average"
+    else:
+        return "Flop"
 
 @app.route('/')
 def home():
@@ -15,17 +33,21 @@ def predict():
     actor_popularity = int(request.form['actor_popularity'])
     director_rating = int(request.form['director_rating'])
 
-    # Dummy prediction formula (Replace with ML model)
-    collection = (budget * 2) + (marketing_spend * 1.5) + (actor_popularity * 10) + (director_rating * 8)
+    # Prepare input data for model
+    input_data = pd.DataFrame([[budget, marketing_spend, actor_popularity, director_rating, genre]],
+                              columns=["Budget (Cr)", "Marketing Spend (Cr)", "Lead Actor Popularity", "Director Rating", "Genre"])
+    
+    # Predict collection
+    predicted_collection = model.predict(input_data)[0]
 
-    if collection > 100:
-        category = "Blockbuster"
-    elif collection > 50:
-        category = "Hit"
-    else:
-        category = "Average"
+    # Categorize movie success
+    category = classify_success(budget, marketing_spend, predicted_collection)
 
-    return render_template('result.html', movie=movie_name, genre=genre, collection=collection, category=category)
+    return render_template('result.html', 
+                           movie=movie_name, 
+                           genre=genre, 
+                           collection=round(predicted_collection, 2), 
+                           category=category)
 
 if __name__ == '__main__':
     app.run(debug=True)
