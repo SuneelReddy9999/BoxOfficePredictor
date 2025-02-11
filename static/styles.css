@@ -127,3 +127,35 @@ button:hover {
         margin-bottom: 15px; /* Add spacing */
     }
 }
+@media (max-width: 768px) {  
+    body {
+        flex-direction: column;
+        align-items: center;
+        overflow-y: auto;
+        height: auto;
+        padding: 20px;
+    }
+
+    /* FORM: Centered & Full Width */
+    .form-container {
+        width: 90%;
+        max-width: 400px;
+        margin-bottom: 20px;
+    }
+    
+    /* POSTERS: Appear Below Form */
+    .poster-container {
+        position: static;
+        flex-direction: column;
+        align-items: center;
+        height: auto;
+    }
+    
+    /* POSTER SIZE: Big & Visible */
+    .poster {
+        width: 85%;
+        max-width: 300px;
+        height: auto;
+        margin: 15px 0;
+    }
+}
