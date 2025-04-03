@@ -159,3 +159,145 @@ button:hover {
         margin: 15px 0;
     }
 }
+body {
+    font-family: Arial, sans-serif;
+    background-color: #121212;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 30px;
+}
+
+.poster-container {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.poster {
+    width: 150px;
+    height: 220px;
+    border-radius: 10px;
+    transition: transform 0.3s, box-shadow 0.3s;
+}
+
+.poster:hover {
+    transform: scale(1.1);
+    box-shadow: 0px 0px 15px gold;
+}
+
+.form-container {
+    background: rgba(255, 255, 255, 0.1);
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.3);
+    width: 350px;
+    text-align: center;
+}
+
+input,
+select,
+button {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+}
+
+input,
+select {
+    background: #333;
+    color: white;
+}
+
+button {
+    background: #f39c12;
+    color: white;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+button:hover {
+    background: #e67e22;
+}
+body {
+    font-family: Arial, sans-serif;
+    background-color: #121212;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 30px;
+}
+
+.poster-container {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.poster {
+    width: 150px;
+    height: 220px;
+    border-radius: 10px;
+    transition: transform 0.3s, box-shadow 0.3s;
+}
+
+.poster:hover {
+    transform: scale(1.1);
+    box-shadow: 0px 0px 15px gold;
+}
+
+.result-container {
+    background: rgba(255, 255, 255, 0.1);
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.3);
+    width: 350px;
+    text-align: center;
+}
+
+p {
+    font-size: 18px;
+    margin: 10px 0;
+}
+
+.highlight {
+    color: #f39c12;
+    font-weight: bold;
+}
+
+.btn {
+    display: inline-block;
+    margin-top: 20px;
+    padding: 10px 20px;
+    background: #f39c12;
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: background 0.3s;
+}
+
+.btn:hover {
+    background: #e67e22;
+}
